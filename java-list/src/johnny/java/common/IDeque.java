@@ -1,6 +1,6 @@
 package johnny.java.common;
 
-public interface Deque<E> {
+public interface IDeque<E> {
     // Deque methods 
     boolean offerFirst(E e);
     boolean offerLast(E e);
@@ -19,4 +19,5 @@ public interface Deque<E> {
     E pop();
     
     int size();
+    boolean isEmpty();
 }
