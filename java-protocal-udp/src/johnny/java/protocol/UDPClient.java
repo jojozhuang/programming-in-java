@@ -1,4 +1,4 @@
-package johnny.java.protocal;
+package johnny.java.protocol;
 
 import java.io.*;
 import java.net.*;
