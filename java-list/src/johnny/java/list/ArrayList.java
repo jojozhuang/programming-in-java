@@ -12,10 +12,11 @@ http://www.vogella.com/tutorials/JavaDatastructureList/article.html
 public class ArrayList<E> {
     private static final int DEFAULT_CAPACITY = 10;
     private int size = 0;
-    private Object[] arr;
+    private E[] arr;
     
+    @SuppressWarnings("unchecked")
     public ArrayList(){
-        arr = new Object[DEFAULT_CAPACITY];
+        arr = (E[])new Object[DEFAULT_CAPACITY];
     }
      
     public void add(E e){

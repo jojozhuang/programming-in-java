@@ -19,10 +19,10 @@ public class LinkedList<E> implements IStack<E>, IQueue<E>, IDeque<E> {
     // Add item to the head of the list
     public boolean offerFirst(E item) {
         if (head == null) {
-            head = new ListNode(item);
+            head = new ListNode<E>(item);
             tail = head;
         } else {
-            head.previous = new ListNode(item);
+            head.previous = new ListNode<E>(item);
             head.previous.next = head;
             head = head.previous;
         }
@@ -57,10 +57,10 @@ public class LinkedList<E> implements IStack<E>, IQueue<E>, IDeque<E> {
     // Add item to the tail of the list
     public boolean offerLast(E item) {
         if (tail == null) {
-            tail = new ListNode(item);
+            tail = new ListNode<E>(item);
             head = tail;
         } else {
-            tail.next = new ListNode(item);
+            tail.next = new ListNode<E>(item);
             tail.next.previous = tail;
             tail = tail.next;
         }
