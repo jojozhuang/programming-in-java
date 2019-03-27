@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-formatting/java-formatting.iml" filepath="$PROJECT_DIR$/java-formatting/java-formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-list/java-list.iml" filepath="$PROJECT_DIR$/java-list/java-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" filepath="$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" />
+    </modules>
+  </component>
+</project>
