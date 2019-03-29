@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-blockingqueue/java-blockingqueue.iml" filepath="$PROJECT_DIR$/java-blockingqueue/java-blockingqueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-dead-lock/java-dead-lock.iml" filepath="$PROJECT_DIR$/java-dead-lock/java-dead-lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-formatting/java-formatting.iml" filepath="$PROJECT_DIR$/java-formatting/java-formatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-list/java-list.iml" filepath="$PROJECT_DIR$/java-list/java-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" filepath="$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" />
