@@ -1,6 +1,9 @@
 package johnny.java.deadlock;
 
-public class DeadLockExample {
+import java.util.concurrent.TimeUnit;
+
+public class DeadlockDetectionExample {
+
     public static Object Lock1 = new Object();
     public static Object Lock2 = new Object();
 
@@ -9,6 +12,8 @@ public class DeadLockExample {
         ThreadDemo2 T2 = new ThreadDemo2();
         T1.start();
         T2.start();
+        DeadlockDetector deadlockDetector = new DeadlockDetector(new DeadlockConsoleHandler(), 5, TimeUnit.SECONDS);
+        deadlockDetector.start();
     }
 
     private static class ThreadDemo1 extends Thread {

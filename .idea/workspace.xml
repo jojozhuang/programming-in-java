@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-dead-lock/java-dead-lock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ShallowCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-deadlock/java-deadlock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockConsoleHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-dead-lock/java-dead-lock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-array-list/java-array-list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,40 +25,44 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="459415340">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
-          <entry key="project.open.time.0" value="12" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.0" value="13" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
           <entry key="iml" value="6" />
-          <entry key="java" value="60" />
+          <entry key="java" value="83" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="6" />
-          <entry key="JAVA" value="60" />
+          <entry key="JAVA" value="83" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="23" />
-          <entry key="java" value="588" />
+          <entry key="dummy" value="27" />
+          <entry key="java" value="1459" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="588" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="JAVA" value="1459" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -55,10 +70,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPool.java">
+        <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayOfList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,64 +100,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/Service.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/Task.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-thread/test/johnny/java/thread/test/ThreadTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-formatting/src/johnny/java/formatting/IntFormatting.java">
+        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListOfArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/ThreadPoolExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,24 +112,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-dead-lock/java-dead-lock.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ShallowCopy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockExample.java">
+        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="315">
+              <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPoolExample.java">
+        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListToArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+              <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayToList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="54" column="1" selection-start-line="2" selection-end-line="54" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,9 +161,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>period</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -191,6 +198,22 @@
         <option value="$PROJECT_DIR$/java-thread/src/johnny/java/thread/ThreadExample.java" />
         <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/TestThread.java" />
         <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockExample.java" />
+        <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadlockHandler.java" />
+        <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadlockDetector.java" />
+        <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadlockConsoleHandler.java" />
+        <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockDetectionExample.java" />
+        <option value="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockExample.java" />
+        <option value="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetectionExample.java" />
+        <option value="$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetector.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/DeepCopy.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/ShallowCopy.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/ArrayListToArray.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/ArrayListOfArray.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/ArrayOfArrayList.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/ListToArray.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/ArrayOfList.java" />
+        <option value="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/ArrayToList.java" />
+        <option value="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java" />
       </list>
     </option>
   </component>
@@ -210,18 +233,58 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dead-lock" type="462c0819:PsiDirectoryNode" />
+              <item name="java-array-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dead-lock" type="462c0819:PsiDirectoryNode" />
+              <item name="java-array-list" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-dead-lock" type="462c0819:PsiDirectoryNode" />
+              <item name="java-array-list" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="deadlock" type="462c0819:PsiDirectoryNode" />
+              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,14 +298,18 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553892492924" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554055543049" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="johnny.java.deadlock" />
       <recent name="johnny.java.threadpool" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -257,13 +324,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="DeadLockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.deadlock.DeadLockExample" />
-      <module name="java-dead-lock" />
+  <component name="RunManager" selected="Application.CopyArray">
+    <configuration name="ArrayToList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.ArrayToList" />
+      <module name="java-array-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.deadlock.*" />
+          <option name="PATTERN" value="johnny.java.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyThreadPoolExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.threadpool.MyThreadPoolExample" />
-      <module name="java-threadpool" />
+    <configuration name="CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.CopyArray" />
+      <module name="java-array-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.threadpool.*" />
+          <option name="PATTERN" value="johnny.java.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.blockingqueue.Service" />
-      <module name="java-blockingqueue" />
+    <configuration name="DeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.DeepCopy" />
+      <module name="java-array-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.blockingqueue.*" />
+          <option name="PATTERN" value="johnny.java.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +364,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.thread.ThreadExample" />
-      <module name="java-thread" />
+    <configuration name="ListToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.ListToArray" />
+      <module name="java-array-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.thread.*" />
+          <option name="PATTERN" value="johnny.java.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +377,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.threadpool.ThreadPoolExample" />
-      <module name="java-threadpool" />
+    <configuration name="ShallowCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.ShallowCopy" />
+      <module name="java-array-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.threadpool.*" />
+          <option name="PATTERN" value="johnny.java.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,19 +391,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadExample" />
-      <item itemvalue="Application.Service" />
-      <item itemvalue="Application.ThreadPoolExample" />
-      <item itemvalue="Application.MyThreadPoolExample" />
-      <item itemvalue="Application.DeadLockExample" />
+      <item itemvalue="Application.ArrayListToArray" />
+      <item itemvalue="Application.ShallowCopy" />
+      <item itemvalue="Application.DeepCopy" />
+      <item itemvalue="Application.ArrayToList" />
+      <item itemvalue="Application.CopyArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeadLockExample" />
-        <item itemvalue="Application.MyThreadPoolExample" />
-        <item itemvalue="Application.ThreadPoolExample" />
-        <item itemvalue="Application.ThreadExample" />
-        <item itemvalue="Application.Service" />
+        <item itemvalue="Application.CopyArray" />
+        <item itemvalue="Application.ArrayListToArray" />
+        <item itemvalue="Application.ArrayToList" />
+        <item itemvalue="Application.ShallowCopy" />
+        <item itemvalue="Application.DeepCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -354,9 +421,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ServiceTest - 2019.03.27 at 09h 42m 25s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ServiceTest - 2019.03.27 at 09h 42m 36s.xml">
       <configuration name="ServiceTest" configurationId="JUnit" />
     </history-entry>
@@ -384,11 +448,15 @@
     <history-entry file="ThreadTest - 2019.03.27 at 10h 55m 59s.xml">
       <configuration name="ThreadTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArrayListTest - 2019.03.31 at 09h 14m 07s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,7 +465,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32673267" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32673267" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -420,71 +488,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-formatting/java-formatting.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-cryptography/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/java-formatting/test/johnny/java/formatting/test/DoubleFormattingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-formatting/test/johnny/java/formatting/test/IntFormattingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/java-list.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/common/IQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-formatting/test/johnny/java/formatting/test/StringFormattingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/NativeListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -589,10 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11070">
           <caret line="791" column="32" selection-start-line="791" selection-start-column="26" selection-end-line="791" selection-end-column="32" />
-          <folding>
-            <element signature="e#31552#31553#0" expanded="true" />
-            <element signature="e#31595#31596#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,6 +659,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4799">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -674,13 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/ThreadPoolExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -691,13 +697,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-dead-lock/java-dead-lock.iml">
+    <entry file="file://$PROJECT_DIR$/java-deadlock/java-deadlock.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockExample.java">
+    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetectionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockConsoleHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPoolExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/DeepCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="32" column="74" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="32" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayOfList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayToList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="54" column="1" selection-start-line="2" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ShallowCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="3282" column="24" selection-start-line="3282" selection-start-column="24" selection-end-line="3282" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
         </state>
       </provider>
     </entry>
