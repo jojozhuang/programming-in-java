@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-core-enum/java-core-enum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumConstantExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/java-collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -24,38 +29,39 @@
     <session id="459415340">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="13" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="14" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="iml" value="6" />
-          <entry key="java" value="122" />
+          <entry key="iml" value="8" />
+          <entry key="java" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="6" />
-          <entry key="JAVA" value="122" />
+          <entry key="IDEA_MODULE" value="8" />
+          <entry key="JAVA" value="162" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="46" />
-          <entry key="java" value="6097" />
+          <entry key="dummy" value="51" />
+          <entry key="java" value="11419" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6097" />
-          <entry key="PLAIN_TEXT" value="46" />
+          <entry key="JAVA" value="11419" />
+          <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
     </session>
@@ -63,62 +69,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/InitializingArray.java">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/LinkedListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="36" selection-start-line="5" selection-start-column="8" selection-end-line="30" selection-end-column="36" />
+            <state relative-caret-position="256">
+              <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumConstantExample.java">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="82" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+            <state relative-caret-position="2220">
+              <caret line="148" column="5" lean-forward="true" selection-start-line="128" selection-start-column="4" selection-end-line="148" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeSetExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1117">
+              <caret line="153" column="5" lean-forward="true" selection-start-line="134" selection-start-column="4" selection-end-line="153" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="65" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeMapExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="213" column="5" lean-forward="true" selection-start-line="194" selection-start-column="4" selection-end-line="213" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/QueueExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/StackExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#949#950#0" expanded="true" />
-                <element signature="e#986#987#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
-                <element signature="e#1098#1099#0" expanded="true" />
-                <element signature="e#1195#1196#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#728#753#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -126,35 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListToArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="56" column="62" selection-start-line="49" selection-start-column="8" selection-end-line="56" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ShallowCopy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+            <state relative-caret-position="-432">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -162,8 +143,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayToList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="54" column="1" selection-start-line="2" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="131">
+              <caret line="43" column="60" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/InitializingArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="30" column="36" selection-start-line="5" selection-start-column="8" selection-end-line="30" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -182,6 +172,11 @@
     <findStrings>
       <find>period</find>
       <find>stringbuffer</find>
+      <find>arrays.tol</find>
+      <find>Arrays</find>
+      <find>Arrays.</find>
+      <find>hashset</find>
+      <find>array</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -190,13 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/ThreadPoolExample.java" />
-        <option value="$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPool.java" />
-        <option value="$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPoolExample.java" />
-        <option value="$PROJECT_DIR$/java-thread/src/johnny/java/thread/ThreadExample.java" />
-        <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/TestThread.java" />
-        <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockExample.java" />
-        <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadlockHandler.java" />
         <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadlockDetector.java" />
         <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadlockConsoleHandler.java" />
         <option value="$PROJECT_DIR$/java-dead-lock/src/johnny/java/deadlock/DeadLockDetectionExample.java" />
@@ -241,6 +229,13 @@
         <option value="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java" />
         <option value="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumExample.java" />
         <option value="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumConstantExample.java" />
+        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/ListExample.java" />
+        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/ArrayListExample.java" />
+        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java" />
+        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/LinkedListExample.java" />
+        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeSetExample.java" />
+        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java" />
+        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeMapExample.java" />
       </list>
     </option>
   </component>
@@ -255,59 +250,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="java-array-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-enum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-enum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-enum" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="enums" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554246885175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554678887659" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -334,13 +311,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumExample">
-    <configuration name="EnumConstantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.enums.EnumConstantExample" />
-      <module name="java-core-enum" />
+  <component name="RunManager" selected="Application.TreeMapExample">
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.HashMapExample" />
+      <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.enums.*" />
+          <option name="PATTERN" value="johnny.java.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,12 +325,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.enums.EnumExample" />
-      <module name="java-core-enum" />
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.HashSetExample" />
+      <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.enums.*" />
+          <option name="PATTERN" value="johnny.java.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -361,12 +338,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.ListToArray" />
-      <module name="java-array-list" />
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.LinkedListExample" />
+      <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.arraylist.*" />
+          <option name="PATTERN" value="johnny.java.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,12 +351,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.interfaceabstract.ShapeExample" />
-      <module name="java-core-basic" />
+    <configuration name="TreeMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.TreeMapExample" />
+      <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.interfaceabstract.*" />
+          <option name="PATTERN" value="johnny.java.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,25 +364,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticKeywordExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.basic.StaticKeywordExample" />
-      <module name="java-core-basic" />
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.TreeSetExample" />
+      <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.interfaceabstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WrapperClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.basic.WrapperClassExample" />
-      <module name="java-core-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.core.basic.*" />
+          <option name="PATTERN" value="johnny.java.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,19 +378,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StaticKeywordExample" />
-      <item itemvalue="Application.ShapeExample" />
-      <item itemvalue="Application.WrapperClassExample" />
-      <item itemvalue="Application.ListToArray" />
-      <item itemvalue="Application.EnumExample" />
+      <item itemvalue="Application.LinkedListExample" />
+      <item itemvalue="Application.TreeMapExample" />
+      <item itemvalue="Application.HashSetExample" />
+      <item itemvalue="Application.TreeSetExample" />
+      <item itemvalue="Application.HashMapExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumExample" />
-        <item itemvalue="Application.EnumConstantExample" />
-        <item itemvalue="Application.ListToArray" />
-        <item itemvalue="Application.WrapperClassExample" />
-        <item itemvalue="Application.ShapeExample" />
+        <item itemvalue="Application.TreeMapExample" />
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.TreeSetExample" />
+        <item itemvalue="Application.HashSetExample" />
+        <item itemvalue="Application.LinkedListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -479,7 +443,7 @@
     <frame x="0" y="23" width="1440" height="820" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30615166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3319027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,8 +452,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32624114" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3248227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -510,137 +474,19 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/ArrayListExample.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-formatting/src/johnny/java/formatting/IntFormatting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/ThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-deadlock/java-deadlock.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetectionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockConsoleHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist/DeepCopy.java" />
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListOfArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="3282" column="24" selection-start-line="3282" selection-start-column="24" selection-end-line="3282" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="427" column="37" selection-start-line="427" selection-start-column="37" selection-end-line="427" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="3166" column="25" selection-start-line="3166" selection-start-column="25" selection-end-line="3166" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-thread/src/johnny/java/thread/ThreadExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-thread/test/johnny/java/thread/test/ThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -674,9 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1815">
           <caret line="122" column="22" selection-start-line="105" selection-start-column="8" selection-end-line="122" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,9 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="6" column="44" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,9 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="40" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -767,15 +604,136 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="94" selection-start-line="30" selection-start-column="94" selection-end-line="30" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesConstant.java" />
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ShallowCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-blockingqueue/src/johnny/java/blockingqueue/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="168" column="21" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumConstantExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="5" selection-start-line="16" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" selection-start-line="2" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/java-collection.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="118" column="34" selection-start-line="118" selection-start-column="34" selection-end-line="118" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="707" column="12" selection-start-line="707" selection-start-column="12" selection-end-line="707" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="130" column="56" selection-start-line="130" selection-start-column="46" selection-end-line="130" selection-end-column="56" />
+          <folding>
+            <element signature="e#4834#4835#0" expanded="true" />
+            <element signature="e#4898#4899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/ArrayListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="188" column="72" selection-start-line="188" selection-start-column="72" selection-end-line="188" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayOfList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="47">
           <caret line="6" column="44" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
@@ -787,105 +745,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/InitializingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="30" column="36" selection-start-line="5" selection-start-column="8" selection-end-line="30" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayToList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="54" column="1" selection-start-line="2" selection-end-line="54" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ShallowCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="131">
+          <caret line="43" column="60" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListToArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="56" column="62" selection-start-line="49" selection-start-column="8" selection-end-line="56" selection-end-column="62" />
+        <state relative-caret-position="-432">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java">
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/LinkedListExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="256">
+          <caret line="95" column="29" lean-forward="true" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/Closeable.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="138">
+          <caret line="139" column="51" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="51" />
+          <folding>
+            <element signature="e#5525#5526#0" expanded="true" />
+            <element signature="e#5572#5573#0" expanded="true" />
+            <element signature="e#15084#15085#0" expanded="true" />
+            <element signature="e#15119#15120#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesConstant.java">
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1117">
+          <caret line="153" column="5" lean-forward="true" selection-start-line="134" selection-start-column="4" selection-end-line="153" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="486" column="50" selection-start-line="486" selection-start-column="19" selection-end-line="486" selection-end-column="50" />
+          <folding>
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="785">
+          <caret line="182" column="11" selection-start-line="182" selection-start-column="11" selection-end-line="182" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="5" lean-forward="true" selection-start-line="128" selection-start-column="4" selection-end-line="148" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="65" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="213" column="5" lean-forward="true" selection-start-line="194" selection-start-column="4" selection-end-line="213" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/QueueExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/InitializingArray.java">
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/StackExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="36" selection-start-line="5" selection-start-column="8" selection-end-line="30" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumConstantExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="82" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#728#753#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-            <element signature="e#1195#1196#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
