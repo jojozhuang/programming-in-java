@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-deadlock/java-deadlock.iml" filepath="$PROJECT_DIR$/java-deadlock/java-deadlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-formatting/java-formatting.iml" filepath="$PROJECT_DIR$/java-formatting/java-formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-functional/java-functional.iml" filepath="$PROJECT_DIR$/java-functional/java-functional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-java8/java-java8.iml" filepath="$PROJECT_DIR$/java-java8/java-java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-list/java-list.iml" filepath="$PROJECT_DIR$/java-list/java-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" filepath="$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
