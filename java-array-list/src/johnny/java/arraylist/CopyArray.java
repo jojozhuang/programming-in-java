@@ -9,16 +9,16 @@ public class CopyArray {
         System.out.println("Original array = " + Arrays.toString(original));
 
         int[] copy = Arrays.copyOf(original, original.length);
-        System.out.println("Copy of array = " + Arrays.toString(copy));
+        System.out.println("Arrays.copyOf(): copy = " + Arrays.toString(copy));
 
         int[] copyRange = Arrays.copyOfRange(original, 3, 6);
-        System.out.println("Range copy of array = " + Arrays.toString(copyRange));
+        System.out.println("Arrays.copyOfRange(): copyRange = " + Arrays.toString(copyRange));
 
         int[] systemCopy = new int[original.length];
         System.arraycopy(original, 0, systemCopy, 0, original.length);
-        System.out.println("System copy of array = " + Arrays.toString(systemCopy));
+        System.out.println("System.arraycopy(): systemCopy = " + Arrays.toString(systemCopy));
 
         int[] clone = original.clone();
-        System.out.println("Clone of array = " + Arrays.toString(clone));
+        System.out.println("Object.clone(): clone = " + Arrays.toString(clone));
     }
 }

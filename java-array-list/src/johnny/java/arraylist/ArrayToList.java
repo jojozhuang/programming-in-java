@@ -8,16 +8,17 @@ import java.util.List;
 public class ArrayToList {
     public static void main(String[] args) {
         // approach one
-        System.out.println("Example 1: Convert array to list with Arrays.asList()");
         convertByArrays();
 
-        System.out.println("");
+        System.out.println();
+
         // approach two
-        System.out.println("Example 2: Convert array to list with Collections.addAll()");
         convertByCollections();
     }
 
     private static void convertByArrays() {
+        System.out.println("Convert array to list with Arrays.asList()");
+
         String[] strArr = {"a", "b", "c", "d"};
         System.out.println("Original array: " + Arrays.toString(strArr));
 
@@ -35,13 +36,15 @@ public class ArrayToList {
     }
 
     private static void convertByCollections() {
+        System.out.println("Convert array to list with Collections.addAll()");
+
         String[] strArr = {"a", "b", "c", "d"};
-        System.out.println("Original array: " + Arrays.toString(strArr));
+        System.out.println("Original Array: " + Arrays.toString(strArr));
 
         // convert
         List<String> strList = new ArrayList<>();
         Collections.addAll(strList, strArr);
-        System.out.println("Converted ArrayList: " + strList.toString());
+        System.out.println("Converted ArrayList: " + strList);
 
         // change the array element
         strArr[0] = "z";

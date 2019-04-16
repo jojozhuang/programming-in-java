@@ -1,19 +1,19 @@
-package johnny.java.arraylist;
+package johnny.java.shallow;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ShallowCopy {
+public class ShallowCopyExample {
     public static void main(String[] args) {
-        System.out.println("Shallow copy example:");
         shallowCopy();
-        System.out.println("---------------------------------------------");
-        System.out.println("Deep copy example:");
+        System.out.println();
         deepCopy();
     }
 
     private static void shallowCopy() {
+        System.out.println("Shallow copy example:");
+
         Person p1 = new Person("Johnny");
         Person p2 = new Person("Sean");
 
@@ -36,6 +36,8 @@ public class ShallowCopy {
     }
 
     private static void deepCopy() {
+        System.out.println("Deep copy example:");
+
         Person p1 = new Person("Johnny");
         Person p2 = new Person("Sean");
 
@@ -64,23 +66,4 @@ public class ShallowCopy {
     }
 }
 
-class Person {
-    private String name;
 
-    public Person(String n) {
-        this.name = n;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    @Override
-    public String toString() {
-        return this.name;
-    }
-}
