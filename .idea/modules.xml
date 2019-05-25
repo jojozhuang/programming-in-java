@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-array-list/java-array-list.iml" filepath="$PROJECT_DIR$/java-array-list/java-array-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-bitset/java-bitset.iml" filepath="$PROJECT_DIR$/java-bitset/java-bitset.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-blockingqueue/java-blockingqueue.iml" filepath="$PROJECT_DIR$/java-blockingqueue/java-blockingqueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-basic/java-core-basic.iml" filepath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-jvm/java-jvm.iml" filepath="$PROJECT_DIR$/java-jvm/java-jvm.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-list/java-list.iml" filepath="$PROJECT_DIR$/java-list/java-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" filepath="$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-redis/java-redis.iml" filepath="$PROJECT_DIR$/java-redis/java-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-shallow-copy/java-shallow-copy.iml" filepath="$PROJECT_DIR$/java-shallow-copy/java-shallow-copy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-threadpool/java-threadpool.iml" filepath="$PROJECT_DIR$/java-threadpool/java-threadpool.iml" />

@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-jvm/java-jvm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/StaticBlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-bitset/java-bitset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -26,28 +24,30 @@
     <session id="459415340">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.0" value="21" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="5" />
-          <entry key="project.open.time.4" value="7" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="gitignore" value="2" />
           <entry key="iml" value="9" />
-          <entry key="java" value="234" />
+          <entry key="java" value="236" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="9" />
-          <entry key="JAVA" value="234" />
+          <entry key="JAVA" value="236" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
@@ -55,14 +55,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="86" />
-          <entry key="java" value="15707" />
+          <entry key="java" value="15804" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15707" />
+          <entry key="JAVA" value="15804" />
           <entry key="JavaScript" value="37" />
           <entry key="PLAIN_TEXT" value="101" />
         </counts>
@@ -72,33 +72,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/StaticBlockTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -107,11 +80,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,8 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/PriorityQueueExample.java" />
-        <option value="$PROJECT_DIR$/java-collection/src/johnny/java/collection/CopyOnWriteArrayListExample.java" />
         <option value="$PROJECT_DIR$/java-version-udpate/src/johnny/java/versions/Java7Example.java" />
         <option value="$PROJECT_DIR$/java-version-udpate/src/johnny/java/java7/Java7Example3.java" />
         <option value="$PROJECT_DIR$/java-version-udpate/src/johnny/java/java7/Java7Example.java" />
@@ -237,6 +229,8 @@
         <option value="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest2.java" />
         <option value="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Parent.java" />
         <option value="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Child.java" />
+        <option value="$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java" />
+        <option value="$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java" />
       </list>
     </option>
   </component>
@@ -251,29 +245,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jvm" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -281,8 +275,8 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558500939833" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558716550396" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -309,13 +303,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticBlockTest">
-    <configuration name="CopyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.CopyArray" />
-      <module name="java-array-list" />
+  <component name="RunManager" selected="Application.RedisExample">
+    <configuration name="BitSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.bitset.BitSetExample" />
+      <module name="java-bitset" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="johnny.java.bitset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShallowCopyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.shallow.ShallowCopyExample" />
-      <module name="java-shallow-copy" />
+    <configuration name="RedisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.redis.RedisExample" />
+      <module name="java-redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.shallow.*" />
+          <option name="PATTERN" value="johnny.java.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -376,19 +370,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CopyArray" />
-      <item itemvalue="Application.ShallowCopyExample" />
       <item itemvalue="Application.StaticBlockTest" />
       <item itemvalue="Application.InitializationBlockTest" />
       <item itemvalue="Application.InitializationBlockTest2" />
+      <item itemvalue="Application.BitSetExample" />
+      <item itemvalue="Application.RedisExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RedisExample" />
+        <item itemvalue="Application.BitSetExample" />
         <item itemvalue="Application.StaticBlockTest" />
         <item itemvalue="Application.InitializationBlockTest2" />
         <item itemvalue="Application.InitializationBlockTest" />
-        <item itemvalue="Application.ShallowCopyExample" />
-        <item itemvalue="Application.CopyArray" />
       </list>
     </recent_temporary>
   </component>
@@ -438,9 +432,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39842632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40987125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,8 +443,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32107496" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39745402" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32062146" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39689267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -486,31 +480,40 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="681" column="16" selection-start-line="681" selection-start-column="16" selection-end-line="681" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="497" column="9" selection-start-line="497" selection-start-column="9" selection-end-line="497" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/IntSummaryStatistics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="148" column="24" selection-start-line="148" selection-start-column="24" selection-end-line="148" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-336">
@@ -740,37 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-jvm/java-jvm.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-shallow-copy/src/johnny/java/shallow/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/StaticBlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -789,6 +761,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-jvm/java-jvm.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-shallow-copy/src/johnny/java/shallow/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/java-redis/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="152" column="14" selection-start-line="152" selection-start-column="11" selection-end-line="152" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -849,7 +876,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -869,7 +895,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>repositories.xml</last-edited>
+          <last-edited>jedis-2.9.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
