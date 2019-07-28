@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-core-basic/java-core-basic.iml" filepath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-enum/java-core-enum.iml" filepath="$PROJECT_DIR$/java-core-enum/java-core-enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-io/java-core-io.iml" filepath="$PROJECT_DIR$/java-core-io/java-core-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml" filepath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-deadlock/java-deadlock.iml" filepath="$PROJECT_DIR$/java-deadlock/java-deadlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-formatting/java-formatting.iml" filepath="$PROJECT_DIR$/java-formatting/java-formatting.iml" />
