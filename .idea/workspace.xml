@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/MappedByteBufferExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-nio/test/johnny/java/core/nio/test/EchoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,31 +24,31 @@
     <session id="459415340">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="43" />
+          <entry key="project.closed" value="45" />
           <entry key="project.open.time.0" value="23" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.3" value="7" />
           <entry key="project.open.time.4" value="10" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="44" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="8" />
           <entry key="gitignore" value="3" />
-          <entry key="iml" value="9" />
-          <entry key="java" value="260" />
+          <entry key="iml" value="13" />
+          <entry key="java" value="275" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="IDEA_MODULE" value="9" />
-          <entry key="JAVA" value="260" />
+          <entry key="CLASS" value="8" />
+          <entry key="IDEA_MODULE" value="13" />
+          <entry key="JAVA" value="275" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
@@ -58,14 +57,14 @@
         <counts>
           <entry key="dummy" value="117" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="19022" />
+          <entry key="java" value="19335" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19022" />
+          <entry key="JAVA" value="19335" />
           <entry key="JavaScript" value="37" />
           <entry key="PLAIN_TEXT" value="133" />
         </counts>
@@ -78,10 +77,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/FileDirectoryExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="48" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,22 +89,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/channels/SocketChannel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="134">
+              <caret line="466" column="39" selection-start-line="466" selection-start-column="29" selection-end-line="466" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -113,8 +100,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="12" column="51" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,15 +131,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/IOUtil.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="147">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/MappedByteBufferExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="295">
@@ -141,10 +149,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/StreamExample.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="14" column="41" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="147">
+              <caret line="431" selection-start-line="431" selection-end-line="431" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="83" column="1" lean-forward="true" selection-start-line="13" selection-end-line="83" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,19 +170,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java">
+        <entry file="file://$PROJECT_DIR$/java-core-nio/test/johnny/java/core/nio/test/EchoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,6 +188,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -192,6 +204,13 @@
       <find>public static void main(String</find>
       <find>aHR0cHM6Ly9qb2pvemh1YW5nLmdpdGh1Yi5pbz9qYXZhOA</find>
       <find>Reading content from file...</find>
+      <find>sendme</find>
+      <find>se</find>
+      <find>configureBlocking</find>
+      <find>sendMessage</find>
+      <find>ByteBuffer.wrap</find>
+      <find>buffer</find>
+      <find>response=</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -200,13 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-versions/src/johnny/java/java8/DefaultStaticInterfaceExample.java" />
-        <option value="$PROJECT_DIR$/java-versions/src/johnny/java/java8/LambdaExpressionExample.java" />
-        <option value="$PROJECT_DIR$/java-versions/src/johnny/java/java8/StreamExample.java" />
-        <option value="$PROJECT_DIR$/java-versions/src/johnny/java/java8/SpliteratorExample.java" />
-        <option value="$PROJECT_DIR$/java-functional/src/johnny/java/functional/PredictTest.java" />
-        <option value="$PROJECT_DIR$/java-functional/src/johnny/java/functional/PredicateTest.java" />
-        <option value="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/GreetingService.java" />
         <option value="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/LambdaExample.java" />
         <option value="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/MathOperation.java" />
         <option value="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/Calculator.java" />
@@ -246,11 +258,18 @@
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileIOExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileNIOExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileClassicIOExample.java" />
-        <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileMappedByteBufferExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/MappedByteBufferExample.java" />
+        <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java" />
+        <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/SelectorExample.java" />
+        <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/test/EchoClientTest.java" />
+        <option value="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
+        <option value="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" />
+        <option value="$PROJECT_DIR$/java-core-nio/test/johnny/java/core/nio/test/EchoTest.java" />
+        <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoClient.java" />
+        <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java" />
       </list>
     </option>
   </component>
@@ -266,6 +285,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,23 +319,75 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="nio" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-nio" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-nio" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-cryptography" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-cryptography" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-cryptography" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-deadlock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564339501141" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564352424031" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="johnny.java.core.nio.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-core-nio/test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="johnny.java.core.nio.test" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="johnny.java.core.nio" />
       <recent name="johnny.java.java7" />
@@ -339,48 +411,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadFileMappedByteBufferExample">
-    <configuration name="FileDirectoryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.io.FileDirectoryExample" />
-      <module name="java-core-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.core.io.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MappedByteBufferExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.nio.MappedByteBufferExample" />
-      <module name="java-core-nio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.core.nio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.EchoTest">
     <configuration name="ReadFileBufferedReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.core.nio.ReadFileBufferedReaderExample" />
-      <module name="java-core-nio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.core.nio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadFileFileSizeBufferExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.nio.ReadFileFileSizeBufferExample" />
       <module name="java-core-nio" />
       <extension name="coverage">
         <pattern>
@@ -405,20 +438,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in java-core-nio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-core-nio" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-core-nio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.core.nio.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="johnny.java.core.nio.test" />
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.nio.test.EchoTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-cryptography" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.cryptography.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="johnny.java.cryptography.test" />
+      <option name="MAIN_CLASS_NAME" value="johnny.java.cryptography.test.EncryptorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.FileDirectoryExample" />
       <item itemvalue="Application.ReadFileBufferedReaderExample" />
-      <item itemvalue="Application.ReadFileFileSizeBufferExample" />
       <item itemvalue="Application.ReadFileFixedSizeBufferExample" />
-      <item itemvalue="Application.ReadFileMappedByteBufferExample" />
+      <item itemvalue="JUnit.All in java-core-nio" />
+      <item itemvalue="JUnit.EncryptorTest" />
+      <item itemvalue="JUnit.EchoTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadFileMappedByteBufferExample" />
+        <item itemvalue="JUnit.EchoTest" />
+        <item itemvalue="JUnit.EncryptorTest" />
+        <item itemvalue="JUnit.All in java-core-nio" />
         <item itemvalue="Application.ReadFileBufferedReaderExample" />
         <item itemvalue="Application.ReadFileFixedSizeBufferExample" />
-        <item itemvalue="Application.ReadFileFileSizeBufferExample" />
-        <item itemvalue="Application.FileDirectoryExample" />
       </list>
     </recent_temporary>
   </component>
@@ -436,52 +505,51 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ServiceTest - 2019.03.27 at 09h 42m 38s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 05m 30s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ServiceTest - 2019.03.27 at 09h 42m 42s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 09m 11s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ServiceTest - 2019.03.27 at 09h 42m 44s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 09m 33s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ServiceTest - 2019.03.27 at 09h 46m 16s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 09m 48s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ServiceTest - 2019.03.27 at 09h 46m 35s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 11m 15s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EncryptorTest - 2019.03.27 at 10h 12m 46s.xml">
-      <configuration name="EncryptorTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 11m 24s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ServiceTest - 2019.03.27 at 10h 18m 28s.xml">
-      <configuration name="ServiceTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 16m 01s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThreadTest - 2019.03.27 at 10h 55m 59s.xml">
-      <configuration name="ThreadTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 16m 02s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ArrayListTest - 2019.03.31 at 09h 14m 07s.xml">
-      <configuration name="ArrayListTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 16m 10s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DoubleFormattingTest - 2019.04.15 at 16h 37m 51s.xml">
-      <configuration name="DoubleFormattingTest" configurationId="JUnit" />
+    <history-entry file="EchoTest - 2019.07.28 at 15h 17m 47s.xml">
+      <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.44563663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.32761088" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
-      <window_info anchor="bottom" id="Thumbnails" sideWeight="0.49928468" weight="0.32909605" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.32062146" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.32062146" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39689267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -490,6 +558,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143063" side_tool="true" weight="0.39689267" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985694" weight="0.32627118" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49928468" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -554,12 +623,28 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoClient.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="buffer.get" language="JAVA" />
+        <watch expression="buffer.array()" language="JAVA" />
+      </configuration>
       <configuration name="Application">
         <watch expression="bits1.toLongArray()" language="JAVA" />
         <watch expression="buffer.limit()" language="JAVA" />
@@ -568,6 +653,16 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>buffer.array()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buffer.get</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>buffer.limit()</expression-string>
         <language-id>JAVA</language-id>
@@ -581,110 +676,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-deadlock/src/johnny/java/deadlock/DeadlockDetectionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-formatting/src/johnny/java/formatting/IntFormatting.java" />
-    <entry file="file://$PROJECT_DIR$/java-formatting/src/johnny/java/formatting/DoubleFormatting.java" />
-    <entry file="file://$PROJECT_DIR$/java-formatting/src/johnny/java/formatting/StringFormatting.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="5397" column="30" selection-start-line="5397" selection-start-column="30" selection-end-line="5397" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayOfList.java" />
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListOfArray.java" />
-    <entry file="file://$PROJECT_DIR$/java-formatting/src/johnny/java/formatting/FormattingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" selection-start-line="63" selection-end-line="75" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayToList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="57" column="1" selection-start-line="7" selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListToArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="51" selection-start-line="51" selection-end-line="60" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-shallow-copy/src/johnny/java/shallow/ShallowCopyExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/MyThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-threadpool/src/johnny/java/threadpool/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/StaticBlock.java" />
-    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/StaticBlockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/java-redis/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="152" column="14" selection-start-line="152" selection-start-column="11" selection-end-line="152" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -817,6 +808,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="914" column="37" selection-start-line="914" selection-start-column="37" selection-end-line="914" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/FileDirectoryExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/StreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="41" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -831,75 +863,166 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/SelectorExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        <state relative-caret-position="120">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/Buffer.java">
+    <entry file="file://$PROJECT_DIR$/java-list/java-list.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="355" column="24" selection-start-line="355" selection-start-column="24" selection-end-line="355" selection-end-column="24" />
+        <state relative-caret-position="300">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-threadpool/java-threadpool.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" selection-start-line="8" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunBefores.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/RunAfters.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Process.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="221" column="25" selection-start-line="221" selection-start-column="25" selection-end-line="221" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/IOUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="431" selection-start-line="431" selection-end-line="431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="283" column="35" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/channels/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="296" column="24" selection-start-line="296" selection-start-column="24" selection-end-line="296" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="203">
           <caret line="331" column="29" selection-start-line="331" selection-start-column="29" selection-end-line="331" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/channels/SocketChannel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="30" />
+          <caret line="466" column="39" selection-start-line="466" selection-start-column="29" selection-end-line="466" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="8" selection-start-line="8" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="48" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="329">
+          <caret line="83" column="1" lean-forward="true" selection-start-line="13" selection-end-line="83" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/nio/channels/FileChannel.java">
+    <entry file="file://$PROJECT_DIR$/java-core-nio/test/johnny/java/core/nio/test/EchoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="914" column="37" selection-start-line="914" selection-start-column="37" selection-end-line="914" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/FileDirectoryExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/StreamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="41" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -910,6 +1033,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
           <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="51" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -965,11 +1115,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java-thread</last-edited>
+          <last-edited>java-cryptography</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -989,7 +1140,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>jedis-2.9.0</last-edited>
+          <last-edited>repositories.xml</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

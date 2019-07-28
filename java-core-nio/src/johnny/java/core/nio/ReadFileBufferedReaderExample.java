@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class ReadFileBufferedReaderExample {
-    // Read file with classic IO APIs
+    // Read file with standard IO APIs
     public static void main(String[] args) {
         BufferedReader br = null;
         String line = null;
