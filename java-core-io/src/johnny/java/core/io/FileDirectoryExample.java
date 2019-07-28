@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Arrays;
 
 public class FileDirectoryExample {
-    private static String filename = "example-create-file.txt";
+    private static String filename = "out/example-create-file.txt";
     public static void main(String[] args) throws IOException {
         fileWriteAndRead();
         fileRenameAndDelete();
@@ -41,7 +41,7 @@ public class FileDirectoryExample {
     }
 
     private static void fileRenameAndDelete() throws IOException {
-        String newName = "renamed-file.txt";
+        String newName = "out/renamed-file.txt";
         // rename file
         File oldFile = new File(filename);
         File newFile = new File(newName);
@@ -55,7 +55,7 @@ public class FileDirectoryExample {
     }
 
     private static void directory() throws IOException {
-        String directoryPath = "javaio/newdir";
+        String directoryPath = "out/javaio/newdir";
         File dir1 = new File(directoryPath);
         // Clean directory if exists
         if (dir1.exists()) {
