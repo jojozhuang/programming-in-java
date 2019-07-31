@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-basic/java-core-basic.iml" filepath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-enum/java-core-enum.iml" filepath="$PROJECT_DIR$/java-core-enum/java-core-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-generics/java-core-generics.iml" filepath="$PROJECT_DIR$/java-core-generics/java-core-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-io/java-core-io.iml" filepath="$PROJECT_DIR$/java-core-io/java-core-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml" filepath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" filepath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" />
