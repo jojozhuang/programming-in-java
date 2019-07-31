@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jvm/java-jvm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/InitializationBlockTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-jvm/src/johnny/java/jvm/StaticBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/StaticBlockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +39,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="4" />
           <entry key="iml" value="13" />
-          <entry key="java" value="280" />
+          <entry key="java" value="281" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -54,14 +48,14 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="13" />
-          <entry key="JAVA" value="280" />
+          <entry key="JAVA" value="281" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="138" />
+          <entry key="dummy" value="140" />
           <entry key="gitignore" value="1" />
           <entry key="java" value="19405" />
           <entry key="js" value="37" />
@@ -72,7 +66,7 @@
         <counts>
           <entry key="JAVA" value="19405" />
           <entry key="JavaScript" value="37" />
-          <entry key="PLAIN_TEXT" value="154" />
+          <entry key="PLAIN_TEXT" value="156" />
         </counts>
       </usages-collector>
     </session>
@@ -82,15 +76,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/MappedByteBufferExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -131,19 +116,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java">
+        <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
               <folding>
+                <element signature="e#143#144#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
@@ -157,7 +143,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="14" />
+              <folding>
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Parent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -235,7 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-java8/src/johnny/java/optional/OptionalClassExample.java" />
         <option value="$PROJECT_DIR$/java-java8/src/johnny/java/nashorn/sample.js" />
         <option value="$PROJECT_DIR$/java-java8/src/johnny/java/nashorn/NashornExample.java" />
         <option value="$PROJECT_DIR$/java-java8/src/johnny/java/nashorn/calljava.js" />
@@ -286,6 +284,7 @@
         <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java" />
         <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/StaticBlockExample.java" />
         <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java" />
+        <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java" />
       </list>
     </option>
   </component>
@@ -345,7 +344,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564544335955" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564544769068" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -360,21 +359,21 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-core-nio/test" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="johnny.java.core.nio.test" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="johnny.java.core.staticblock" />
       <recent name="johnny.java.core.nio" />
       <recent name="johnny.java.java7" />
       <recent name="johnny.java.core.interfaceabstract" />
       <recent name="johnny.java.deadlock" />
-      <recent name="johnny.java.threadpool" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-core-nio/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -389,7 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.InitializationBlockExample">
     <configuration name="InitializationBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.core.staticblock.InitializationBlockExample" />
       <module name="java-core-staticblock" />
@@ -405,6 +404,19 @@
     </configuration>
     <configuration name="InitializationBlockExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.core.staticblock.InitializationBlockExample2" />
+      <module name="java-core-staticblock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.core.staticblock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitializationBlockExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.staticblock.InitializationBlockExample3" />
       <module name="java-core-staticblock" />
       <extension name="coverage">
         <pattern>
@@ -443,34 +455,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncryptorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-cryptography" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.cryptography.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="johnny.java.cryptography.test" />
-      <option name="MAIN_CLASS_NAME" value="johnny.java.cryptography.test.EncryptorTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.EncryptorTest" />
       <item itemvalue="JUnit.EchoTest" />
       <item itemvalue="Application.StaticBlockExample" />
-      <item itemvalue="Application.InitializationBlockExample" />
       <item itemvalue="Application.InitializationBlockExample2" />
+      <item itemvalue="Application.InitializationBlockExample3" />
+      <item itemvalue="Application.InitializationBlockExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InitializationBlockExample2" />
         <item itemvalue="Application.InitializationBlockExample" />
+        <item itemvalue="Application.InitializationBlockExample3" />
+        <item itemvalue="Application.InitializationBlockExample2" />
         <item itemvalue="Application.StaticBlockExample" />
         <item itemvalue="JUnit.EchoTest" />
-        <item itemvalue="JUnit.EncryptorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -630,6 +628,12 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample3.java</url>
+          <line>3</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -671,16 +675,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1001,23 +995,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/StaticBlockExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1031,7 +1008,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="12" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="14" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
@@ -1040,17 +1057,6 @@
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#362#363#0" expanded="true" />
             <element signature="e#429#430#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Parent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="12" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
           </folding>
         </state>
       </provider>
