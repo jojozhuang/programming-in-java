@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-array-list/java-array-list.iml" filepath="$PROJECT_DIR$/java-array-list/java-array-list.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-bitset/java-bitset.iml" filepath="$PROJECT_DIR$/java-bitset/java-bitset.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-blockingqueue/java-blockingqueue.iml" filepath="$PROJECT_DIR$/java-blockingqueue/java-blockingqueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" filepath="$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-basic/java-core-basic.iml" filepath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" filepath="$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-enum/java-core-enum.iml" filepath="$PROJECT_DIR$/java-core-enum/java-core-enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" filepath="$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-generics/java-core-generics.iml" filepath="$PROJECT_DIR$/java-core-generics/java-core-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-io/java-core-io.iml" filepath="$PROJECT_DIR$/java-core-io/java-core-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" filepath="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" />
@@ -15,7 +16,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" filepath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-deadlock/java-deadlock.iml" filepath="$PROJECT_DIR$/java-deadlock/java-deadlock.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-formatting/java-formatting.iml" filepath="$PROJECT_DIR$/java-formatting/java-formatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-functional/java-functional.iml" filepath="$PROJECT_DIR$/java-functional/java-functional.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8/java-java8.iml" filepath="$PROJECT_DIR$/java-java8/java-java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" filepath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" />

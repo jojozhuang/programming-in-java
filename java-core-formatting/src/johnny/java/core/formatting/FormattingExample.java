@@ -1,4 +1,4 @@
-package johnny.java.formatting;
+package johnny.java.core.formatting;
 
 public class FormattingExample {
     public static void main(String args[]) {

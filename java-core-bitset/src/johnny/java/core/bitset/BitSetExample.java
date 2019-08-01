@@ -1,4 +1,4 @@
-package johnny.java.bitset;
+package johnny.java.core.bitset;
 
 import java.util.BitSet;
 

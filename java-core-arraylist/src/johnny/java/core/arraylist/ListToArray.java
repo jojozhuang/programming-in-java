@@ -1,4 +1,4 @@
-package johnny.java.arraylist;
+package johnny.java.core.arraylist;
 
 import java.util.ArrayList;
 import java.util.Arrays;

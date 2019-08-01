@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/BiggerThanFivePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIteratorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-array-list/java-array-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ArrayToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayToList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/CopyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-array-list/src/johnny/java/arraylist/ListToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ListToArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-bitset/java-bitset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-bitset/src/johnny/java/core/bitset/BitSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-formatting/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-formatting/java-formatting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-formatting/src/johnny/java/formatting/FormattingExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-formatting/src/johnny/java/core/formatting/FormattingExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,9 +45,9 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="8" />
-          <entry key="gitignore" value="4" />
-          <entry key="iml" value="13" />
-          <entry key="java" value="355" />
+          <entry key="gitignore" value="5" />
+          <entry key="iml" value="15" />
+          <entry key="java" value="364" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -49,10 +55,10 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="IDEA_MODULE" value="13" />
-          <entry key="JAVA" value="355" />
+          <entry key="IDEA_MODULE" value="15" />
+          <entry key="JAVA" value="364" />
           <entry key="JavaScript" value="2" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -79,106 +85,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/ModificationExceptionExample.java">
+        <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/BiggerThanFivePredicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/CommonIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="69" column="1" selection-start-line="2" selection-end-line="69" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/PredicateIterator.java">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/PredicateIteratorExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayToList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/CopyArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ListToArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/ArrayListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/LinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/NativeListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIteratorExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/CommonIteratorExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/RemovableIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="44" column="1" selection-start-line="2" selection-end-line="44" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/RemovableIteratorExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -226,9 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/StaticBlockTest.java" />
-        <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockTest.java" />
-        <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockTest2.java" />
         <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Parent.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java" />
@@ -277,12 +265,16 @@
         <option value="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/BiggerThanFivePredicate.java" />
         <option value="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIterator.java" />
         <option value="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIteratorExample.java" />
+        <option value="$PROJECT_DIR$/java-core-bitset/src/johnny/java/core/bitset/BitSetExample.java" />
+        <option value="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java" />
+        <option value="$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -295,42 +287,22 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-arraylist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-formatting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-formatting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-formatting" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-nio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-nio" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="predicate" type="462c0819:PsiDirectoryNode" />
+              <item name="formatting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,7 +316,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564671059228" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564671914662" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -388,13 +360,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PredicateIteratorExample (1)">
-    <configuration name="ModificationExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.iterator.ModificationExceptionExample" />
-      <module name="java-core-iterator" />
+  <component name="RunManager" selected="Application.FormattingExample">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.ArrayExample" />
+      <module name="java-core-arraylist" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.iterator.*" />
+          <option name="PATTERN" value="johnny.java.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -402,12 +374,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateIteratorExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java8.predicate.PredicateIteratorExample" />
-      <module name="java-java8-predicate" />
+    <configuration name="BitSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.bitset.BitSetExample" />
+      <module name="java-core-bitset" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java8.predicate.*" />
+          <option name="PATTERN" value="johnny.java.core.bitset.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,12 +387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateIteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.iterator.PredicateIteratorExample" />
-      <module name="java-core-iterator" />
+    <configuration name="FormattingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.formatting.FormattingExample" />
+      <module name="java-core-formatting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.iterator.*" />
+          <option name="PATTERN" value="johnny.java.core.formatting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -428,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovableIteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.iterator.RemovableIteratorExample" />
-      <module name="java-core-iterator" />
+    <configuration name="ListToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.arraylist.ListToArray" />
+      <module name="java-core-arraylist" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.iterator.*" />
+          <option name="PATTERN" value="johnny.java.core.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,33 +413,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedIteratorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.iterator.SortedIteratorExample" />
-      <module name="java-core-iterator" />
+    <configuration name="ArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.iterator.*" />
+          <option name="PATTERN" value="johnny.java.arraylist.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="johnny.java.arraylist.test" />
+      <option name="MAIN_CLASS_NAME" value="johnny.java.arraylist.test.ArrayListTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ModificationExceptionExample" />
-      <item itemvalue="Application.SortedIteratorExample" />
-      <item itemvalue="Application.RemovableIteratorExample" />
-      <item itemvalue="Application.PredicateIteratorExample" />
-      <item itemvalue="Application.PredicateIteratorExample (1)" />
+      <item itemvalue="Application.BitSetExample" />
+      <item itemvalue="Application.FormattingExample" />
+      <item itemvalue="Application.ArrayExample" />
+      <item itemvalue="Application.ListToArray" />
+      <item itemvalue="JUnit.ArrayListTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PredicateIteratorExample (1)" />
-        <item itemvalue="Application.ModificationExceptionExample" />
-        <item itemvalue="Application.PredicateIteratorExample" />
-        <item itemvalue="Application.RemovableIteratorExample" />
-        <item itemvalue="Application.SortedIteratorExample" />
+        <item itemvalue="Application.FormattingExample" />
+        <item itemvalue="JUnit.ArrayListTest" />
+        <item itemvalue="Application.ListToArray" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.BitSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -485,9 +458,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EchoTest - 2019.07.28 at 15h 09m 11s.xml">
-      <configuration name="EchoTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EchoTest - 2019.07.28 at 15h 09m 33s.xml">
       <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
@@ -514,6 +484,9 @@
     </history-entry>
     <history-entry file="EchoTest - 2019.07.29 at 22h 04m 26s.xml">
       <configuration name="EchoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest - 2019.08.01 at 08h 02m 28s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -586,7 +559,7 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-bitset/src/johnny/java/bitset/BitSetExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-bitset/src/johnny/java/core/bitset/BitSetExample.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="11" />
@@ -674,96 +647,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="51" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/IOUtil.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/MappedByteBufferExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/SocketChannelImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6060">
-          <caret line="431" selection-start-line="431" selection-end-line="431" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/test/johnny/java/core/nio/test/EchoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="12" selection-start-line="12" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1079,6 +962,86 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-bitset/src/johnny/java/core/bitset/BitSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayToList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/CopyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ListToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-formatting/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/NativeListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
