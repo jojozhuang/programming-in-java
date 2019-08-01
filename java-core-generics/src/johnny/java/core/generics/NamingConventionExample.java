@@ -13,8 +13,8 @@ public class NamingConventionExample {
         System.out.format("String Value: %s\n", box.getSecond());
 
         Pair<String, Integer> pair = new Pair<String, Integer>();
-        pair.addKeyValue("1", Integer.valueOf(10));
-        System.out.format("(Pair)Integer Value: %d\n", pair.getValue("1"));
+        pair.addKeyValue("A", Integer.valueOf(20));
+        System.out.format("(Pair)Integer Value: %d\n", pair.getValue("A"));
 
         CustomList<Box> list = new CustomList<Box>();
         list.addItem(box);
@@ -62,5 +62,4 @@ public class NamingConventionExample {
             return list.get(index);
         }
     }
-
 }

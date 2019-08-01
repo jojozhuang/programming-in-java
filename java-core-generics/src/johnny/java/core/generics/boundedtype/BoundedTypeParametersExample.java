@@ -3,10 +3,10 @@ package johnny.java.core.generics.boundedtype;
 public class BoundedTypeParametersExample {
     public static void main(String args[]) {
         System.out.format("Max of %d, %d and %d is %d\n",
-                3, 4, 5, maximum( 3, 4, 5 ));
+                3, 4, 5, maximum(3, 4, 5));
 
         System.out.format("Max of %.1f,%.1f and %.1f is %.1f\n",
-                6.6, 8.8, 7.7, maximum( 6.6, 8.8, 7.7 ));
+                6.6, 8.8, 7.7, maximum(6.6, 8.8, 7.7));
 
         System.out.format("Max of %s, %s and %s is %s\n","pear",
                 "apple", "orange", maximum("pear", "apple", "orange"));

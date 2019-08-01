@@ -15,8 +15,8 @@ public class ParameterizedTypesExample {
         messages.add("Bye");
 
         box.add(Integer.valueOf(10),messages);
-        System.out.printf("Integer Value :%d\n", box.getFirst());
-        System.out.printf("String Value :%s\n", box.getSecond());
+        System.out.format("Integer Value: %d\n", box.getFirst());
+        System.out.format("String Value: %s\n", box.getSecond());
     }
 
     static class Box<T, S> {

@@ -2,30 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-core-generics/java-core-generics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/BoundedTypeParametersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericClassExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleBoundsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleTypeParametersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/TypeInferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundTypesErasureExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/BoundedTypeParametersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/BoundedTypeParametersExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundTypesErasureExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcards.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcardsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,8 +28,8 @@
     <session id="459415340">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="51" />
-          <entry key="project.open.time.0" value="24" />
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.0" value="25" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="8" />
@@ -51,7 +37,7 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="52" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -59,7 +45,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="4" />
           <entry key="iml" value="13" />
-          <entry key="java" value="303" />
+          <entry key="java" value="337" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -68,25 +54,25 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="13" />
-          <entry key="JAVA" value="303" />
+          <entry key="JAVA" value="337" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="140" />
+          <entry key="dummy" value="149" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="19926" />
+          <entry key="java" value="20523" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19926" />
+          <entry key="JAVA" value="20523" />
           <entry key="JavaScript" value="37" />
-          <entry key="PLAIN_TEXT" value="156" />
+          <entry key="PLAIN_TEXT" value="165" />
         </counts>
       </usages-collector>
     </session>
@@ -97,13 +83,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMapExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="38" selection-end-column="1" />
               <folding>
-                <element signature="e#260#277#0" expanded="true" />
-                <element signature="e#395#410#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/BoundedTypeParametersExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcardsExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="5" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,8 +129,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            <state relative-caret-position="367">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="5" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="64" column="1" lean-forward="true" selection-start-line="7" selection-end-line="64" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,10 +152,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="197">
+              <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericListExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,119 +173,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcards.java">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#357#365#0" expanded="true" />
-                <element signature="e#464#472#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="4" selection-end-line="26" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericMapExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-              <folding>
-                <element signature="e#207#216#0" expanded="true" />
-                <element signature="e#259#267#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-              <folding>
-                <element signature="e#204#213#0" expanded="true" />
-                <element signature="e#256#264#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#771#772#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#817#818#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <element signature="e#1196#1197#0" expanded="true" />
-                <element signature="e#1261#1262#0" expanded="true" />
-                <element signature="e#1340#1341#0" expanded="true" />
-                <element signature="e#1411#1412#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-              <folding>
-                <element signature="e#204#213#0" expanded="true" />
-                <element signature="e#256#264#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#623#624#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#1118#1119#0" expanded="true" />
-                <element signature="e#1144#1145#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1195#1196#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundTypesErasureExample2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="346">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="4" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -282,7 +221,11 @@
       <find>buffer</find>
       <find>response=</find>
       <find>printf</find>
+      <find>print</find>
     </findStrings>
+    <replaceStrings>
+      <replace>format</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -290,9 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/FileStreamExample.java" />
-        <option value="$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/FileDirectoryExample.java" />
-        <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileIOExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileNIOExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileClassicIOExample.java" />
         <option value="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java" />
@@ -318,11 +258,7 @@
         <option value="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericClassExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/TypeInferenceExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleTypeParametersExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/BoundedTypeParametersExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleBoundsExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericListExample.java" />
@@ -330,9 +266,6 @@
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMapExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/UpperBoundedWildcards.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/UpperBoundedWildcardsExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcards.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundTypesErasureExample2.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasure.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample.java" />
@@ -341,6 +274,16 @@
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample2.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample2.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/BoundedTypeParametersExample.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcards.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcardsExample.java" />
+        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java" />
       </list>
     </option>
   </component>
@@ -355,7 +298,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -373,6 +315,20 @@
               <item name="java-core-generics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="boundedtype" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
@@ -407,6 +363,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -414,7 +371,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564593459353" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564635017053" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -429,21 +386,21 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-core-nio/test" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="johnny.java.core.nio.test" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="johnny.java.core.generics.wildcards" />
       <recent name="johnny.java.core.generics.typeerasure" />
       <recent name="johnny.java.core.generics" />
       <recent name="johnny.java.core.staticblock" />
       <recent name="johnny.java.core.nio" />
-      <recent name="johnny.java.java7" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-core-nio/test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -458,13 +415,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodsErasureExample2">
-    <configuration name="BoundTypesErasureExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.typeerasure.BoundTypesErasureExample2" />
+  <component name="RunManager">
+    <configuration name="GenericListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.collections.GenericListExample" />
       <module name="java-core-generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.generics.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.generics.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,12 +429,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsErasureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.typeerasure.MethodsErasureExample" />
+    <configuration name="GenericMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.collections.GenericMapExample" />
       <module name="java-core-generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.generics.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.generics.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -485,12 +442,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsErasureExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.typeerasure.MethodsErasureExample2" />
+    <configuration name="GenericSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.collections.GenericSetExample" />
       <module name="java-core-generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.generics.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.generics.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -498,12 +455,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnboundedTypesErasureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.typeerasure.UnboundedTypesErasureExample" />
+    <configuration name="LowerBoundedWildcardsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.wildcards.LowerBoundedWildcardsExample" />
       <module name="java-core-generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.generics.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.generics.wildcards.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -511,12 +468,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnboundedTypesErasureExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.typeerasure.UnboundedTypesErasureExample2" />
+    <configuration name="UpperBoundedWildcardsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.generics.wildcards.UpperBoundedWildcardsExample" />
       <module name="java-core-generics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.generics.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.generics.wildcards.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -525,19 +482,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BoundTypesErasureExample2" />
-      <item itemvalue="Application.UnboundedTypesErasureExample" />
-      <item itemvalue="Application.UnboundedTypesErasureExample2" />
-      <item itemvalue="Application.MethodsErasureExample" />
-      <item itemvalue="Application.MethodsErasureExample2" />
+      <item itemvalue="Application.GenericListExample" />
+      <item itemvalue="Application.GenericSetExample" />
+      <item itemvalue="Application.GenericMapExample" />
+      <item itemvalue="Application.LowerBoundedWildcardsExample" />
+      <item itemvalue="Application.UpperBoundedWildcardsExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodsErasureExample2" />
-        <item itemvalue="Application.MethodsErasureExample" />
-        <item itemvalue="Application.UnboundedTypesErasureExample2" />
-        <item itemvalue="Application.UnboundedTypesErasureExample" />
-        <item itemvalue="Application.BoundTypesErasureExample2" />
+        <item itemvalue="Application.LowerBoundedWildcardsExample" />
+        <item itemvalue="Application.UpperBoundedWildcardsExample" />
+        <item itemvalue="Application.GenericMapExample" />
+        <item itemvalue="Application.GenericSetExample" />
+        <item itemvalue="Application.GenericListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -587,10 +544,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.36123034" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.3662375" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -599,7 +555,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.32062146" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.3197183" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39689267" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,7 +563,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" weight="0.32768363" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143063" side_tool="true" weight="0.39689267" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985694" weight="0.32627118" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4985694" weight="0.3253521" />
       <window_info anchor="bottom" id="Thumbnails" order="11" sideWeight="0.49928468" weight="0.32909605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -956,100 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericClassExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-          <folding>
-            <element signature="e#157#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/TypeInferenceExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="e#303#311#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1270#1271#0" expanded="true" />
-            <element signature="e#1313#1314#0" expanded="true" />
-            <element signature="e#1349#1350#0" expanded="true" />
-            <element signature="e#1392#1393#0" expanded="true" />
-            <element signature="e#1522#1523#0" expanded="true" />
-            <element signature="e#1561#1562#0" expanded="true" />
-            <element signature="e#1600#1601#0" expanded="true" />
-            <element signature="e#1646#1647#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleTypeParametersExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#201#218#0" expanded="true" />
-            <element signature="e#449#465#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#210#233#0" expanded="true" />
-            <element signature="e#293#301#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#179#188#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -1057,123 +919,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/BoundedTypeParametersExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleTypeParametersExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleBoundsExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/TypeInferenceExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericListExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/MultipleBoundsExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#198#207#0" expanded="true" />
-            <element signature="e#352#360#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericSetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="e#239#248#0" expanded="true" />
-            <element signature="e#387#395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-          <folding>
-            <element signature="e#260#277#0" expanded="true" />
-            <element signature="e#395#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="35" column="1" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcards.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#357#365#0" expanded="true" />
-            <element signature="e#464#472#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundTypesErasureExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#1118#1119#0" expanded="true" />
-            <element signature="e#1144#1145#0" expanded="true" />
-            <element signature="e#1171#1172#0" expanded="true" />
-            <element signature="e#1195#1196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <element signature="e#204#213#0" expanded="true" />
-            <element signature="e#256#264#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1181,50 +953,139 @@
     <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-          <folding>
-            <element signature="e#207#216#0" expanded="true" />
-            <element signature="e#259#267#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-          </folding>
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="e#204#213#0" expanded="true" />
-            <element signature="e#256#264#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericClassExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="25" selection-end-column="1" />
           <folding>
-            <element signature="e#1196#1197#0" expanded="true" />
-            <element signature="e#1261#1262#0" expanded="true" />
-            <element signature="e#1340#1341#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#157#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="64" column="1" lean-forward="true" selection-start-line="7" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/BoundedTypeParametersExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="2" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="15" column="62" lean-forward="true" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="4" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="4" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="5" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcardsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="5" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
         </state>
       </provider>

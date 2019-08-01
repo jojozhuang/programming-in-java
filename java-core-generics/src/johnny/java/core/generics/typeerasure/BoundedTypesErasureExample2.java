@@ -1,6 +1,6 @@
 package johnny.java.core.generics.typeerasure;
 
-public class BoundTypesErasureExample2 {
+public class BoundedTypesErasureExample2 {
     public static void main(String[] args) {
         Box integerBox = new Box();
         Box doubleBox = new Box();

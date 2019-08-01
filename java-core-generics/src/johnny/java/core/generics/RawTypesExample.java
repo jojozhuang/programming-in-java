@@ -5,21 +5,21 @@ public class RawTypesExample {
         Box<Integer> box = new Box<Integer>();
 
         box.set(Integer.valueOf(10));
-        System.out.printf("Integer Value :%d\n", box.getData());
+        System.out.format("Integer Value: %d\n", box.getData());
 
         Box rawBox = new Box();
 
         //No warning
         rawBox = box;
-        System.out.printf("Integer Value :%d\n", rawBox.getData());
+        System.out.format("Integer Value: %d\n", rawBox.getData());
 
         //Warning for unchecked invocation to set(T)
         rawBox.set(Integer.valueOf(10));
-        System.out.printf("Integer Value :%d\n", rawBox.getData());
+        System.out.format("Integer Value: %d\n", rawBox.getData());
 
         //Warning for unchecked conversion
         box = rawBox;
-        System.out.printf("Integer Value :%d\n", box.getData());
+        System.out.format("Integer Value: %d\n", box.getData());
     }
 
     static class Box<T> {

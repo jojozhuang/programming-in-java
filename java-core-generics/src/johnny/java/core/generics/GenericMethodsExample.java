@@ -18,11 +18,10 @@ public class GenericMethodsExample {
     }
 
     // generic method printArray
-    public static < E > void printArray( E[] inputArray ) {
+    public static <E> void printArray(E[] inputArray) {
         // Display array elements
         for(E element : inputArray) {
             System.out.format("%s, ", element);
         }
     }
-
 }

@@ -17,5 +17,4 @@ public class UnboundedWildcardsExample {
         }
         System.out.println();
     }
-
 }
