@@ -16,7 +16,6 @@ public class ArrayExample {
         String s = "hello";
         char[] chs = s.toCharArray(); // chs = {'h','e','l','l','o'};
 
-
         // for loop
         for (int i = 0; i < nums2.length; i++) {
             int num = nums2[i];
@@ -36,12 +35,12 @@ public class ArrayExample {
 
         // Binary search on array
         int[] array = {10,15,20,22,35};
-        int index1 = Arrays.binarySearch(array,20); // index1 = 2
-        int index2 = Arrays.binarySearch(array,8);  // index2 = -1, (-insertion point) - 1
-        int index3 = Arrays.binarySearch(array,40); // index3 = -6, (-insertion point) - 1
+        int index3 = Arrays.binarySearch(array,20); // index3 = 2
+        int index4 = Arrays.binarySearch(array,8);  // index4 = -1, (-insertion point) - 1
+        int index5 = Arrays.binarySearch(array,40); // index5 = -6, (-insertion point) - 1
 
         // print Array
-        int[] nums = {1,3,5,7};
-        System.out.println(Arrays.toString(nums)); // print [1,3,5,7]
+        int[] nums3 = {1,3,5,7};
+        System.out.println(Arrays.toString(nums3)); // print [1,3,5,7]
     }
 }
