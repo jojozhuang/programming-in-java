@@ -1,4 +1,4 @@
-package johnny.java.blockingqueue;
+package johnny.java.concurrency.blockingqueue;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;

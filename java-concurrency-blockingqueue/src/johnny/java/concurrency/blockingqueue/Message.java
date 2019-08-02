@@ -1,4 +1,4 @@
-package johnny.java.blockingqueue;
+package johnny.java.concurrency.blockingqueue;
 
 public class Message {
     private String msg;
