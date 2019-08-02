@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/CharacterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/CommonIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/RemovableIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/SortedIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-java8-predicate/test/johnny/java8/predicate/test/PredicateIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-comparator/java-core-comparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/SalaryComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +41,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="5" />
           <entry key="iml" value="19" />
-          <entry key="java" value="398" />
+          <entry key="java" value="403" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -54,25 +50,25 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="19" />
-          <entry key="JAVA" value="398" />
+          <entry key="JAVA" value="403" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="153" />
+          <entry key="dummy" value="160" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="20675" />
+          <entry key="java" value="20764" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20675" />
+          <entry key="JAVA" value="20764" />
           <entry key="JavaScript" value="37" />
-          <entry key="PLAIN_TEXT" value="169" />
+          <entry key="PLAIN_TEXT" value="176" />
         </counts>
       </usages-collector>
     </session>
@@ -82,27 +78,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIteratorExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml">
           <provider selected="true" editor-type-id="text-editor">
@@ -145,7 +120,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/SortedIteratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -158,31 +133,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-predicate/test/johnny/java8/predicate/test/PredicateIteratorTest.java">
+        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/SortedIteratorExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-nio/test/johnny/java/core/nio/test/EchoTest.java">
+        <entry file="file://$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/SalaryComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Double.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="302">
+              <caret line="998" column="22" selection-start-line="998" selection-start-column="22" selection-end-line="998" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/ComparatorExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -231,10 +229,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/BoundedTypeParametersExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleBoundsExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericListExample.java" />
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericSetExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMapExample.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/UpperBoundedWildcards.java" />
         <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/UpperBoundedWildcardsExample.java" />
@@ -282,6 +276,10 @@
         <option value="$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/CommonIteratorTest.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/RemovableIteratorTest.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/SortedIteratorTest.java" />
+        <option value="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/ComparatorTest.java" />
+        <option value="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/Employee.java" />
+        <option value="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/SalaryComparator.java" />
+        <option value="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/ComparatorExample.java" />
       </list>
     </option>
   </component>
@@ -301,44 +299,27 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-comparator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-comparator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-comparator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="comparator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-enum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-enum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,7 +333,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564715843576" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564761348533" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -396,13 +377,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortedIteratorTest">
-    <configuration name="ArrayExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.basic.ArrayExample" />
-      <module name="java-core-basic" />
+  <component name="RunManager" selected="Application.ComparatorExample">
+    <configuration name="ComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.comparator.ComparatorExample" />
+      <module name="java-core-comparator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.basic.*" />
+          <option name="PATTERN" value="johnny.java.core.comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -467,19 +448,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayExample (1)" />
       <item itemvalue="JUnit.PredicateIteratorTest" />
       <item itemvalue="JUnit.CommonIteratorTest" />
       <item itemvalue="JUnit.RemovableIteratorTest" />
       <item itemvalue="JUnit.SortedIteratorTest" />
+      <item itemvalue="Application.ComparatorExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComparatorExample" />
         <item itemvalue="JUnit.SortedIteratorTest" />
         <item itemvalue="JUnit.RemovableIteratorTest" />
         <item itemvalue="JUnit.CommonIteratorTest" />
         <item itemvalue="JUnit.PredicateIteratorTest" />
-        <item itemvalue="Application.ArrayExample (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -497,9 +478,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EchoTest - 2019.07.28 at 15h 16m 01s.xml">
-      <configuration name="EchoTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EchoTest - 2019.07.28 at 15h 16m 02s.xml">
       <configuration name="EchoTest" configurationId="JUnit" />
     </history-entry>
@@ -527,12 +505,15 @@
     <history-entry file="RemovableIteratorTest - 2019.08.01 at 20h 16m 52s.xml">
       <configuration name="RemovableIteratorTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SortedIteratorTest - 2019.08.01 at 20h 17m 24s.xml">
+      <configuration name="SortedIteratorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.37124464" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.37124464" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -541,7 +522,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.28004956" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.28004956" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -698,35 +679,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/PredicateIteratorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-bitset/src/johnny/java/core/bitset/BitSetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-formatting/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayToList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1057,6 +1009,49 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/SortedIteratorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="998" column="22" selection-start-line="998" selection-start-column="22" selection-end-line="998" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/SalaryComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="24" />
+          <folding>
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/ComparatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
     </entry>

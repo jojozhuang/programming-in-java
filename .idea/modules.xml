@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" filepath="$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-basic/java-core-basic.iml" filepath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" filepath="$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-comparator/java-core-comparator.iml" filepath="$PROJECT_DIR$/java-core-comparator/java-core-comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-enum/java-core-enum.iml" filepath="$PROJECT_DIR$/java-core-enum/java-core-enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" filepath="$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-generics/java-core-generics.iml" filepath="$PROJECT_DIR$/java-core-generics/java-core-generics.iml" />
