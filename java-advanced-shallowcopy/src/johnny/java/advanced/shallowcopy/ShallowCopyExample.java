@@ -1,4 +1,4 @@
-package johnny.java.shallow;
+package johnny.java.advanced.shallowcopy;
 
 import java.util.ArrayList;
 import java.util.Arrays;

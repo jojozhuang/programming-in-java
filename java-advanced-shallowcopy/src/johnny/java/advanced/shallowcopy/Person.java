@@ -1,4 +1,4 @@
-package johnny.java.shallow;
+package johnny.java.advanced.shallowcopy;
 
 public class Person {
     private String name;
