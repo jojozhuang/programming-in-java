@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" filepath="$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" filepath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" filepath="$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-concurrency-threadpool/java-concurrency-threadpool.iml" filepath="$PROJECT_DIR$/java-concurrency-threadpool/java-concurrency-threadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" filepath="$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-basic/java-core-basic.iml" filepath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" filepath="$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" />
@@ -23,8 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" filepath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" filepath="$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-redis/java-redis.iml" filepath="$PROJECT_DIR$/java-redis/java-redis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/java-thread/java-thread.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-threadpool/java-threadpool.iml" filepath="$PROJECT_DIR$/java-threadpool/java-threadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-versions/java-versions.iml" filepath="$PROJECT_DIR$/java-versions/java-versions.iml" />
     </modules>
   </component>
