@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" filepath="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-list/java-core-list.iml" filepath="$PROJECT_DIR$/java-core-list/java-core-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml" filepath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-queuestack/java-core-queuestack.iml" filepath="$PROJECT_DIR$/java-core-queuestack/java-core-queuestack.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-socket/java-core-socket.iml" filepath="$PROJECT_DIR$/java-core-socket/java-core-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" filepath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-typeerasure/java-core-typeerasure.iml" filepath="$PROJECT_DIR$/java-core-typeerasure/java-core-typeerasure.iml" />

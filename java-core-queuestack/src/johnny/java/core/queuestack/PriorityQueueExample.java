@@ -1,4 +1,4 @@
-package johnny.java.collection;
+package johnny.java.core.queuestack;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
