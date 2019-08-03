@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/PriorityQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/PriorityQueueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/QueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/StackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/StackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/java-collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/java-core-setmap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/CopyOnWriteArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/TreeMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/TreeSetExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +42,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="5" />
           <entry key="iml" value="21" />
-          <entry key="java" value="467" />
+          <entry key="java" value="468" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -48,7 +51,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="21" />
-          <entry key="JAVA" value="467" />
+          <entry key="JAVA" value="468" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
@@ -95,9 +98,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashMapExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1404">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashSetExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
@@ -112,7 +124,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1071">
@@ -140,15 +152,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -281,21 +284,6 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-core-queuestack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,6 +297,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="queuestack" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-setmap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-setmap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-setmap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -320,7 +323,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564867695732" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564867978420" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -365,13 +368,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PriorityQueueExample">
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.list.ArrayListExample" />
-      <module name="java-core-list" />
+  <component name="RunManager" selected="Application.HashSetExample">
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.HashSetExample" />
+      <module name="java-core-setmap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.list.*" />
+          <option name="PATTERN" value="johnny.java.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -433,18 +436,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.PriorityQueueExample" />
-      <item itemvalue="Application.ArrayListExample" />
       <item itemvalue="Application.LinkedListExample" />
       <item itemvalue="Application.QueueExample" />
       <item itemvalue="Application.StackExample" />
+      <item itemvalue="Application.HashSetExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetExample" />
         <item itemvalue="Application.PriorityQueueExample" />
         <item itemvalue="Application.StackExample" />
         <item itemvalue="Application.QueueExample" />
         <item itemvalue="Application.LinkedListExample" />
-        <item itemvalue="Application.ArrayListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -495,6 +498,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.3762518" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
@@ -504,8 +508,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.28004956" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.28004956" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -682,13 +686,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/NativeListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="45" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1004,13 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1404">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-list/java-core-list.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1028,6 +1018,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/StackExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1042,10 +1039,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashMapExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1071">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="-1404">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
