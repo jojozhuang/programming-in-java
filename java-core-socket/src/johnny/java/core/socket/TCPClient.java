@@ -1,4 +1,4 @@
-package johnny.java.app.socket;
+package johnny.java.core.socket;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

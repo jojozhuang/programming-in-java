@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/TCPClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/TCPServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-protocal-udp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java-app-socket/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-protocal-udp/java-protocal-udp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-app-socket/java-app-socket.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/UDPClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/UDPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-app-socket/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-socket/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-app-socket/java-app-socket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-socket/java-core-socket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-app-socket/src/johnny/java/app/socket/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-app-socket/src/johnny/java/app/socket/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-app-socket/src/johnny/java/app/socket/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-app-socket/src/johnny/java/app/socket/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,19 +131,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/UDPClient.java">
+        <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="415">
+              <caret line="47" column="1" selection-start-line="5" selection-end-line="47" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/TCPServer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="7" selection-start-line="7" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,8 +151,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/TCPClient.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="47" selection-end-column="1" />
@@ -164,10 +164,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/UDPServer.java">
+        <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="49" />
+            <state relative-caret-position="11">
+              <caret line="5" selection-start-line="5" selection-end-line="35" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -232,8 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java" />
-        <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/IteratorExample.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/ModificationExceptionExample.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/SortedIterator.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/SortedIteratorExample.java" />
@@ -283,6 +281,8 @@
         <option value="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/UDPClient.java" />
         <option value="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/TCPClient.java" />
         <option value="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/TCPServer.java" />
+        <option value="$PROJECT_DIR$/java-app-socket/src/johnny/java/app/socket/TCPClient.java" />
+        <option value="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPClient.java" />
       </list>
     </option>
   </component>
@@ -303,18 +303,18 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-protocal-udp" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-socket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-protocal-udp" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-socket" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-protocal-udp" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-socket" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="protocol" type="462c0819:PsiDirectoryNode" />
+              <item name="socket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,7 +327,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564809604432" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564809814033" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -372,13 +372,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TCPClient">
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java8.predicate.PredicateExample" />
-      <module name="java-java8-predicate" />
+  <component name="RunManager" selected="Application.TCPClient (1)">
+    <configuration name="TCPClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.socket.TCPClient" />
+      <module name="java-core-socket" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java8.predicate.*" />
+          <option name="PATTERN" value="johnny.java.core.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,7 +388,7 @@
     </configuration>
     <configuration name="TCPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.protocol.TCPClient" />
-      <module name="java-app-socket" />
+      <module name="java-core-socket" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="johnny.java.protocol.*" />
@@ -399,9 +399,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TCPServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.socket.TCPServer" />
+      <module name="java-core-socket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.core.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TCPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.protocol.TCPServer" />
-      <module name="java-app-socket" />
+      <module name="java-core-socket" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="johnny.java.protocol.*" />
@@ -414,20 +427,7 @@
     </configuration>
     <configuration name="UDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.protocol.UDPClient" />
-      <module name="java-app-socket" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.protocol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.protocol.UDPServer" />
-      <module name="java-app-socket" />
+      <module name="java-core-socket" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="johnny.java.protocol.*" />
@@ -439,19 +439,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PredicateExample" />
-      <item itemvalue="Application.UDPServer" />
       <item itemvalue="Application.UDPClient" />
       <item itemvalue="Application.TCPServer" />
       <item itemvalue="Application.TCPClient" />
+      <item itemvalue="Application.TCPServer (1)" />
+      <item itemvalue="Application.TCPClient (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TCPClient (1)" />
+        <item itemvalue="Application.TCPServer (1)" />
         <item itemvalue="Application.TCPClient" />
         <item itemvalue="Application.TCPServer" />
         <item itemvalue="Application.UDPClient" />
-        <item itemvalue="Application.UDPServer" />
-        <item itemvalue="Application.PredicateExample" />
       </list>
     </recent_temporary>
   </component>
@@ -502,6 +502,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.3762518" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
@@ -623,7 +624,7 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/UDPServer.java</url>
+          <url>file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="23" />
@@ -1033,34 +1034,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/UDPServer.java">
+    <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="49" />
+        <state relative-caret-position="11">
+          <caret line="5" selection-start-line="5" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/UDPClient.java">
+    <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/TCPServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="7" selection-start-line="7" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="47" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-app-socket/src/johnny/java/protocol/TCPClient.java">
+    <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="415">
+          <caret line="47" column="1" selection-start-line="5" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

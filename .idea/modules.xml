@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" filepath="$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-app-socket/java-app-socket.iml" filepath="$PROJECT_DIR$/java-app-socket/java-app-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" filepath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" filepath="$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" />
@@ -19,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-core-io/java-core-io.iml" filepath="$PROJECT_DIR$/java-core-io/java-core-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" filepath="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml" filepath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-socket/java-core-socket.iml" filepath="$PROJECT_DIR$/java-core-socket/java-core-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" filepath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8/java-java8.iml" filepath="$PROJECT_DIR$/java-java8/java-java8.iml" />
