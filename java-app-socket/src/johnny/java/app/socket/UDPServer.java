@@ -1,4 +1,4 @@
-package johnny.java.protocol;
+package johnny.java.app.socket;
 
 import java.io.*;
 import java.net.*;
@@ -15,7 +15,10 @@ public class UDPServer {
             receiveData = new byte[1024];
             DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
             serverSocket.receive(receivePacket);
-            String clientInput = new String(receivePacket.getData());
+            // get actual date with proper length
+            byte[] actualData = new byte[receivePacket.getLength()];
+            System.arraycopy(receivePacket.getData(), receivePacket.getOffset(), actualData, 0, receivePacket.getLength());
+            String clientInput = new String(actualData);
             System.out.println("[UPDServer] Received input [" + clientInput + "] from Client.");
             // Find the ip address and port of sender
             InetAddress IPAddress = receivePacket.getAddress();

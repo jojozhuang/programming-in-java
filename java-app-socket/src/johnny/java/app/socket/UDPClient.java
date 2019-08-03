@@ -1,4 +1,4 @@
-package johnny.java.protocol;
+package johnny.java.app.socket;
 
 import java.io.*;
 import java.net.*;
@@ -33,7 +33,10 @@ public class UDPClient {
             //
             DatagramPacket receivePacket = new DatagramPacket(receiveData, receiveData.length);
             clientSocket.receive(receivePacket);
-            String responseFromServer = new String(receivePacket.getData());
+            // get actual date with proper length
+            byte[] actualData = new byte[receivePacket.getLength()];
+            System.arraycopy(receivePacket.getData(), receivePacket.getOffset(), actualData, 0, receivePacket.getLength());
+            String responseFromServer = new String(actualData);
             System.out.println("[UDPClient] Get response [" + responseFromServer + "] from Server.");
         } while (!userInput.equals("quit")); // End the client if 'quit' is an input
 
