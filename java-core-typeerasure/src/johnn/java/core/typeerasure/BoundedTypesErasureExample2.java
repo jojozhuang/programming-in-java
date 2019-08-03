@@ -1,9 +1,9 @@
-package johnny.java.core.generics.typeerasure;
+package johnn.java.core.typeerasure;
 
-public class BoundedTypesErasureExample {
+public class BoundedTypesErasureExample2 {
     public static void main(String[] args) {
-        Box<Integer> integerBox = new Box<Integer>();
-        Box<Double> doubleBox = new Box<Double>();
+        Box integerBox = new Box();
+        Box doubleBox = new Box();
 
         integerBox.add(new Integer(10));
         doubleBox.add(new Double(10.0));
@@ -12,17 +12,15 @@ public class BoundedTypesErasureExample {
         System.out.format("Double Value: %s\n", doubleBox.get());
     }
 
-    static class Box<T extends Number> {
-        private T t;
+    static class Box {
+        private Number t;
 
-        public void add(T t) {
+        public void add(Number t) {
             this.t = t;
         }
 
-        public T get() {
+        public Number get() {
             return t;
         }
     }
 }
-
-

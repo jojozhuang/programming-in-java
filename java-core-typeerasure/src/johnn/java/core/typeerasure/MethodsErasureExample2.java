@@ -1,4 +1,4 @@
-package johnny.java.core.generics.typeerasure;
+package johnn.java.core.typeerasure;
 
 public class MethodsErasureExample2 {
     public static void main(String[] args) {

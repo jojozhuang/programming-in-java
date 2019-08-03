@@ -1,4 +1,4 @@
-package johnny.java.core.generics.typeerasure;
+package johnn.java.core.typeerasure;
 
 public class UnboundedTypesErasureExample2 {
     public static void main(String[] args) {

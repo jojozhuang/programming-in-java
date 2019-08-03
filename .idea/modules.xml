@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml" filepath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-socket/java-core-socket.iml" filepath="$PROJECT_DIR$/java-core-socket/java-core-socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" filepath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-core-typeerasure/java-core-typeerasure.iml" filepath="$PROJECT_DIR$/java-core-typeerasure/java-core-typeerasure.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8/java-java8.iml" filepath="$PROJECT_DIR$/java-java8/java-java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" filepath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" />
