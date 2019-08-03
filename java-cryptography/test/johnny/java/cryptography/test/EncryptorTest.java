@@ -17,10 +17,10 @@ public class EncryptorTest {
         System.out.println("Original content: " + originalString);
         
         String encrypted = Encryptor.encrypt(key_16, initVector, originalString);
-        System.out.println("Encrypted content(Base64): " + encrypted);
+        System.out.println("Encrypted content(AES+Base64): " + encrypted);
         
         String decrypted = Encryptor.decrypt(key_16, initVector, encrypted);
-        System.out.println("Decrypted content(Base64): " + decrypted);
+        System.out.println("Decrypted content(AES+Base64): " + decrypted);
 
         Assert.assertEquals(originalString, decrypted);
     }

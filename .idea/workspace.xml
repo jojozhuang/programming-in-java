@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-core-list/java-core-list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/BoundedTypesErasureExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/MethodsErasureExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/MethodsErasureExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/MethodsErasureExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/UnboundedTypesErasureExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/typeerasure/UnboundedTypesErasureExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/UnboundedTypesErasureExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/LinkedListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +40,8 @@
         <counts>
           <entry key="class" value="8" />
           <entry key="gitignore" value="5" />
-          <entry key="iml" value="20" />
-          <entry key="java" value="459" />
+          <entry key="iml" value="21" />
+          <entry key="java" value="467" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -50,8 +49,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="8" />
-          <entry key="IDEA_MODULE" value="20" />
-          <entry key="JAVA" value="459" />
+          <entry key="IDEA_MODULE" value="21" />
+          <entry key="JAVA" value="467" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
@@ -60,14 +59,14 @@
         <counts>
           <entry key="dummy" value="173" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="20911" />
+          <entry key="java" value="20915" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20911" />
+          <entry key="JAVA" value="20915" />
           <entry key="JavaScript" value="37" />
           <entry key="PLAIN_TEXT" value="189" />
         </counts>
@@ -80,94 +79,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="48" column="1" selection-start-line="5" selection-end-line="48" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/StackExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1404">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/PriorityQueueExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/QueueExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-list/java-core-list.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/LinkedListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample2.java">
+        <entry file="file://$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="77">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/MethodsErasureExample.java">
+        <entry file="file://$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/MethodsErasureExample2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/UnboundedTypesErasureExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/UnboundedTypesErasureExample2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="7" selection-start-line="7" selection-end-line="47" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="5" selection-start-line="5" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -220,8 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/SortedIterator.java" />
-        <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/SortedIteratorExample.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/CommonIterator.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/CommonIteratorExample.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/RemoveIterator.java" />
@@ -271,6 +261,8 @@
         <option value="$PROJECT_DIR$/java-app-socket/src/johnny/java/app/socket/TCPClient.java" />
         <option value="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPClient.java" />
         <option value="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java" />
+        <option value="$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java" />
+        <option value="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java" />
       </list>
     </option>
   </component>
@@ -291,48 +283,33 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-generics" type="462c0819:PsiDirectoryNode" />
+              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-generics" type="462c0819:PsiDirectoryNode" />
+              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-generics" type="462c0819:PsiDirectoryNode" />
+              <item name="java-collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-typeerasure" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-typeerasure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-typeerasure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="typeerasure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,7 +322,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564864825017" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564866548962" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -390,13 +367,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UnboundedTypesErasureExample2">
-    <configuration name="BoundedTypesErasureExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnn.java.core.typeerasure.BoundedTypesErasureExample2" />
-      <module name="java-core-typeerasure" />
+  <component name="RunManager" selected="Application.LinkedListExample">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.list.ArrayListExample" />
+      <module name="java-core-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnn.java.core.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,12 +381,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsErasureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnn.java.core.typeerasure.MethodsErasureExample" />
-      <module name="java-core-typeerasure" />
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.list.LinkedListExample" />
+      <module name="java-core-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnn.java.core.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,25 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsErasureExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnn.java.core.typeerasure.MethodsErasureExample2" />
-      <module name="java-core-typeerasure" />
+    <configuration name="PriorityQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.PriorityQueueExample" />
+      <module name="java-collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnn.java.core.typeerasure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UnboundedTypesErasureExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnn.java.core.typeerasure.UnboundedTypesErasureExample" />
-      <module name="java-core-typeerasure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnn.java.core.typeerasure.*" />
+          <option name="PATTERN" value="johnny.java.core.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,20 +420,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EncryptorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-cryptography" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.cryptography.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="johnny.java.cryptography.test" />
+      <option name="MAIN_CLASS_NAME" value="johnny.java.cryptography.test.EncryptorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.BoundedTypesErasureExample2" />
-      <item itemvalue="Application.MethodsErasureExample" />
-      <item itemvalue="Application.MethodsErasureExample2" />
-      <item itemvalue="Application.UnboundedTypesErasureExample" />
       <item itemvalue="Application.UnboundedTypesErasureExample2" />
+      <item itemvalue="JUnit.EncryptorTest" />
+      <item itemvalue="Application.PriorityQueueExample" />
+      <item itemvalue="Application.ArrayListExample" />
+      <item itemvalue="Application.LinkedListExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListExample" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.PriorityQueueExample" />
+        <item itemvalue="JUnit.EncryptorTest" />
         <item itemvalue="Application.UnboundedTypesErasureExample2" />
-        <item itemvalue="Application.UnboundedTypesErasureExample" />
-        <item itemvalue="Application.MethodsErasureExample2" />
-        <item itemvalue="Application.MethodsErasureExample" />
-        <item itemvalue="Application.BoundedTypesErasureExample2" />
       </list>
     </recent_temporary>
   </component>
@@ -487,12 +465,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EchoTest - 2019.07.29 at 22h 04m 26s.xml">
-      <configuration name="EchoTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArrayListTest - 2019.08.01 at 08h 02m 28s.xml">
-      <configuration name="ArrayListTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PredicateIteratorTest - 2019.08.01 at 19h 14m 34s.xml">
       <configuration name="PredicateIteratorTest" configurationId="JUnit" />
     </history-entry>
@@ -516,6 +488,12 @@
     </history-entry>
     <history-entry file="ServiceTest - 2019.08.02 at 16h 41m 19s.xml">
       <configuration name="ServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptorTest - 2019.08.03 at 13h 46m 44s.xml">
+      <configuration name="EncryptorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptorTest - 2019.08.03 at 13h 47m 48s.xml">
+      <configuration name="EncryptorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -558,7 +536,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/ArrayListExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java</url>
           <line>166</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -708,66 +686,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/common/IDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/src/johnny/java/list/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1071">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/LinkedListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-list/test/johnny/java/arraylist/test/NativeListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="20" column="45" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/LinkedListExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2780">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -796,13 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="45" selection-start-column="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1030,20 +945,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/MethodsErasureExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1076,6 +977,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1404">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/PriorityQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/StackExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-collection/src/johnny/java/collection/QueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-list/java-core-list.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/LinkedListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>

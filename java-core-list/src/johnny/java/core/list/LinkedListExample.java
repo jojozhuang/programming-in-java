@@ -1,8 +1,8 @@
-package johnny.java.collection;
+package johnny.java.core.list;
 
 import java.util.*;
 
-public class ArrayListExample {
+public class LinkedListExample {
     public static void main(String[] args) {
 
         constructList();
@@ -12,8 +12,12 @@ public class ArrayListExample {
         sortList();
 
         traverseList();
+
         //wrongWayToRemoveElement();
+
         correctWayToRemoveElement();
+
+        interfaces();
 
         simpleUsage();
 
@@ -22,26 +26,27 @@ public class ArrayListExample {
 
     private static void constructList() {
         // no arguments
-        List<Integer> list1 = new ArrayList<>();
+        List<Integer> list1 = new LinkedList<>();
         list1.add(5);
         list1.add(9);
+        list1.add(4);
         list1.add(4);
         list1.add(2);
         System.out.println("Construct list: " + list1);
 
         // with another list
-        List<Integer> list2 = new ArrayList<>(list1);
+        List<Integer> list2 = new LinkedList<>(list1);
         System.out.println("Construct list with another list: " + list2);
 
         // with treeset
         SortedSet<Integer> treeSet1 = new TreeSet<>(list1);
-        List<Integer> list3 = new ArrayList<>(treeSet1);
+        List<Integer> list3 = new LinkedList<>(treeSet1);
         System.out.println("Construct list with tree set: " + list3);
     }
 
     private static void commonOperations() {
         // add
-        List<Integer> list1 = new ArrayList<>();
+        List<Integer> list1 = new LinkedList<>();
         for (int i = 0; i < 9; i++) {
             list1.add(i);
         }
@@ -57,9 +62,6 @@ public class ArrayListExample {
         list1.remove(0);
         System.out.println("Remove element which is at index 0 : " + list1);
 
-        // get
-        System.out.println("Get element which is at index 3 : " + list1.get(3));
-
         // sub list
         List<Integer> list2 = list1.subList(2, 4);
         System.out.println("Sub list from index 2(inclusive) to index 4(exclusive) : " + list2);
@@ -67,10 +69,11 @@ public class ArrayListExample {
 
     private static void sortList() {
         // Sorting
-        List<Integer> list1 = new ArrayList<>();
+        List<Integer> list1 = new LinkedList<>();
         list1.add(3);
         list1.add(1);
         list1.add(2);
+
         Collections.sort(list1);                // ascending order, list1 = {1,2,3}
         System.out.println("Sort list in ascending order: " + list1);
         Collections.sort(list1, (a,b)->(b-a));  // descending order, list1 = {3,2,1}
@@ -78,19 +81,12 @@ public class ArrayListExample {
     }
 
     private static void traverseList() {
-        List<String> fruits = new ArrayList<>();
+        List<String> fruits = new LinkedList<>();
         fruits.add("Apple");
         fruits.add("Banana");
         fruits.add("Orange");
         fruits.add("Watermelon");
         fruits.add("Kiwi");
-
-        // basic for
-        for (int i = 0; i < fruits.size(); i++) {
-            System.out.println("Traverse List(basic for): processing - " + fruits.get(i));
-        }
-
-        System.out.println();
 
         // for each
         for (String fruit : fruits) {
@@ -109,7 +105,7 @@ public class ArrayListExample {
     }
 
     private static void wrongWayToRemoveElement() {
-        List<String> fruits = new ArrayList<>();
+        List<String> fruits = new LinkedList<>();
         fruits.add("Apple");
         fruits.add("Banana");
         fruits.add("Orange");
@@ -141,7 +137,7 @@ public class ArrayListExample {
     }
 
     private static void correctWayToRemoveElement() {
-        List<String> fruits = new ArrayList<>();
+        List<String> fruits = new LinkedList<>();
         fruits.add("Apple");
         fruits.add("Banana");
         fruits.add("Orange");
@@ -162,12 +158,44 @@ public class ArrayListExample {
         System.out.println("Fruits list after deletion = " + fruits);
     }
 
+    private static void interfaces() {
+        // List Interface, insertion order
+        List<Integer> list = new LinkedList<>();
+        list.add(1);
+        list.add(2);
+        list.add(4);
+        list.forEach(System.out::println);  // print 1,2,4
+
+        // Queue interface, FIFO
+        Queue<Integer> queue = new LinkedList<>();
+        queue.offer(1);
+        queue.offer(2);
+        queue.offer(3);
+        while (!queue.isEmpty()) {
+            System.out.println(queue.poll());  // print 1,2,3
+        }
+
+        // Deque interface, FIFO or LIFO
+        Deque<Integer> deque = new LinkedList<>();
+        deque.offerLast(1);  // deque = {1}
+        deque.offerLast(2);  // deque = {1,2}
+        deque.offerFirst(3); // deque = {3, 1, 2}
+        deque.peekFirst();      // return 3
+        deque.peekLast( );      // return 2
+        deque.pollFirst();      // return 3, deque = {1,2}
+        deque.pollLast();       // return 2, deque = {1}
+    }
+
     private static void simpleUsage() {
         // Constructors
-        List<Integer> list1 = new ArrayList<>();
-        List<Integer> list2 = new ArrayList<>(1000);
-        List<Integer> list3 = new ArrayList<>(new ArrayList<>());
-        List<Integer> list4 = new ArrayList<>(new TreeSet<>());
+        List<Integer> list1 = new LinkedList<>();
+        List<Integer> list2 = new LinkedList<>(new LinkedList<>());
+        List<Integer> list3 = new LinkedList<>(new TreeSet<>());
+
+        // Different interfaces
+        List<Integer> list4 = new LinkedList<>();
+        Queue<Integer> list5 = new LinkedList<>();
+        Deque<Integer> list6 = new LinkedList<>();
 
         // Common operations
         /*
@@ -176,21 +204,23 @@ public class ArrayListExample {
         list.remove(index);
         list.subList(index1, index2);
         */
-        List<Integer> list5 = new ArrayList<>();
+        List<Integer> list7 = new LinkedList<>();
         for (int i = 0; i < 6; i++) {
-            list5.add(i);
+            list7.add(i);
         }
-        list5.add(0, 9);
-        list5.remove(0);
-        List<Integer> list6 = list5.subList(1,4); // list6 = {1,2,3}
+        list7.add(0, 9);
+        list7.remove(0);
+        List<Integer> list8 = list7.subList(1,4); // list8 = {1,2,3}
 
         // Sorting
-        Collections.sort(list5);                // list5 = {0,1,2,3,4,5}
-        Collections.sort(list5, (a,b)->(b-a));  // list5 = {5,4,3,2,1,0}
+        Collections.sort(list7);                // list7 = {0,1,2,3,4,5}
+        Collections.sort(list7, (a,b)->(b-a));  // list7 = {5,4,3,2,1,0}
+
     }
 
     private static void stream() {
-        List<String> list1 = new ArrayList<>();
+        // LinkedList to Stream in Java 8
+        List<String> list1 = new LinkedList<>();
         list1.add("a");
         list1.add("b");
         list1.add("c");
