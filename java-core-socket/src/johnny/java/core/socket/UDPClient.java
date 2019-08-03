@@ -35,7 +35,8 @@ public class UDPClient {
             clientSocket.receive(receivePacket);
             // get actual date with proper length
             byte[] actualData = new byte[receivePacket.getLength()];
-            System.arraycopy(receivePacket.getData(), receivePacket.getOffset(), actualData, 0, receivePacket.getLength());
+            System.arraycopy(receivePacket.getData(), receivePacket.getOffset(),
+                    actualData, 0, receivePacket.getLength());
             String responseFromServer = new String(actualData);
             System.out.println("[UDPClient] Get response [" + responseFromServer + "] from Server.");
         } while (!userInput.equals("quit")); // End the client if 'quit' is an input

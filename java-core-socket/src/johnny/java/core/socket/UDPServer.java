@@ -17,7 +17,8 @@ public class UDPServer {
             serverSocket.receive(receivePacket);
             // get actual date with proper length
             byte[] actualData = new byte[receivePacket.getLength()];
-            System.arraycopy(receivePacket.getData(), receivePacket.getOffset(), actualData, 0, receivePacket.getLength());
+            System.arraycopy(receivePacket.getData(), receivePacket.getOffset(),
+                    actualData, 0, receivePacket.getLength());
             String clientInput = new String(actualData);
             System.out.println("[UPDServer] Received input [" + clientInput + "] from Client.");
             // Find the ip address and port of sender
