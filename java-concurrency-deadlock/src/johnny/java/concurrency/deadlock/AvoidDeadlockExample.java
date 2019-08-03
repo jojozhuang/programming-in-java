@@ -1,6 +1,6 @@
 package johnny.java.concurrency.deadlock;
 
-public class DeadlockExample {
+public class AvoidDeadlockExample {
     public static Object Lock1 = new Object();
     public static Object Lock2 = new Object();
 
@@ -33,8 +33,8 @@ public class DeadlockExample {
 
     private static class WorkerThread2 extends Thread {
         public void run() {
-            synchronized (Lock2) {
-                System.out.println("Thread 2: Holding lock 2...");
+            synchronized (Lock1) {
+                System.out.println("Thread 2: Holding lock 1...");
 
                 try {
                     Thread.sleep(10);
@@ -42,9 +42,9 @@ public class DeadlockExample {
                 catch (InterruptedException e) {
                     System.out.println(e.getStackTrace());
                 }
-                System.out.println("Thread 2: Waiting for lock 1...");
+                System.out.println("Thread 2: Waiting for lock 2...");
 
-                synchronized (Lock1) {
+                synchronized (Lock2) {
                     System.out.println("Thread 2: Holding lock 1 & 2...");
                 }
             }

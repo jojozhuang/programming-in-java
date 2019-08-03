@@ -1,4 +1,4 @@
-package johnny.java.concurrency.deadlock;
+package johnny.java.concurrency.deadlock.detection;
 
 import java.lang.management.ManagementFactory;
 import java.lang.management.ThreadInfo;
@@ -8,7 +8,7 @@ import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 public class DeadlockDetector {
-    private final DeadlockHandler deadlockHandler;
+    private final DetectionHandler deadlockHandler;
     private final long period;
     private final TimeUnit unit;
     private final ThreadMXBean mbean = ManagementFactory.getThreadMXBean();
@@ -28,8 +28,9 @@ public class DeadlockDetector {
         }
     };
 
-    public DeadlockDetector(final DeadlockHandler deadlockHandler,
-                            final long period, final TimeUnit unit) {
+    public DeadlockDetector(final DetectionHandler deadlockHandler,
+                            final long period,
+                            final TimeUnit unit) {
         this.deadlockHandler = deadlockHandler;
         this.period = period;
         this.unit = unit;
