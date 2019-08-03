@@ -1,4 +1,4 @@
-package johnny.java.deadlock;
+package johnny.java.concurrency.deadlock;
 
 import java.lang.management.ThreadInfo;
 import java.util.Map;

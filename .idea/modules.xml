@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" filepath="$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-collection/java-collection.iml" filepath="$PROJECT_DIR$/java-collection/java-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" filepath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" filepath="$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" filepath="$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-threadpool/java-concurrency-threadpool.iml" filepath="$PROJECT_DIR$/java-concurrency-threadpool/java-concurrency-threadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" filepath="$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" />
@@ -19,7 +20,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-core-nio/java-core-nio.iml" filepath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" filepath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-cryptography/java-cryptography.iml" filepath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-deadlock/java-deadlock.iml" filepath="$PROJECT_DIR$/java-deadlock/java-deadlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-functional/java-functional.iml" filepath="$PROJECT_DIR$/java-functional/java-functional.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8/java-java8.iml" filepath="$PROJECT_DIR$/java-java8/java-java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" filepath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" />
