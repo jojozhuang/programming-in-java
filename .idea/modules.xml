@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" filepath="$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" filepath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-concurrency-callable/java-concurrency-callable.iml" filepath="$PROJECT_DIR$/java-concurrency-callable/java-concurrency-callable.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" filepath="$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-concurrency-forkjoin/java-concurrency-forkjoin.iml" filepath="$PROJECT_DIR$/java-concurrency-forkjoin/java-concurrency-forkjoin.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-synchronization/java-concurrency-synchronization.iml" filepath="$PROJECT_DIR$/java-concurrency-synchronization/java-concurrency-synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-synchronizer/java-concurrency-synchronizer.iml" filepath="$PROJECT_DIR$/java-concurrency-synchronizer/java-concurrency-synchronizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" filepath="$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" />
