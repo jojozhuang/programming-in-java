@@ -1,4 +1,4 @@
-package johnny.java.nashorn;
+package johnny.java8.newfeatures.nashorn;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;

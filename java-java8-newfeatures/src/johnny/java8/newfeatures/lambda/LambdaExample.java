@@ -1,4 +1,4 @@
-package johnny.java.lambda;
+package johnny.java8.newfeatures.lambda;
 
 public class LambdaExample {
     public static void main(String args[]) {

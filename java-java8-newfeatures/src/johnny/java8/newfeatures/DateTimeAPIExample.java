@@ -1,4 +1,4 @@
-package johnny.java;
+package johnny.java8.newfeatures;
 
 import java.time.*;
 import java.time.temporal.ChronoUnit;

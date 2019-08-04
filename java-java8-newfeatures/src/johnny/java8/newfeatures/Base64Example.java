@@ -1,4 +1,4 @@
-package johnny.java;
+package johnny.java8.newfeatures;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;

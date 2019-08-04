@@ -1,4 +1,4 @@
-package johnny.java.defaultmethod;
+package johnny.java8.newfeatures.defaultmethod;
 
 public class DefaultMethodExample {
     public static void main(String args[]) {

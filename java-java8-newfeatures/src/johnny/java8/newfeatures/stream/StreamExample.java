@@ -1,4 +1,4 @@
-package johnny.java.stream;
+package johnny.java8.newfeatures.stream;
 
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;

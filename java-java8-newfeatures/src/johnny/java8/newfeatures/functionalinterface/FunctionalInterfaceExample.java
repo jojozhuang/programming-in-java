@@ -1,4 +1,4 @@
-package johnny.java.functionalinterface;
+package johnny.java8.newfeatures.functionalinterface;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package johnny.java.mtdref;
+package johnny.java8.newfeatures.mtdref;
 
 import java.util.ArrayList;
 import java.util.Arrays;

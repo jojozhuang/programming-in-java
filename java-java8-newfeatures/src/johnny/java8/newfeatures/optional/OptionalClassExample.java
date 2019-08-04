@@ -1,4 +1,4 @@
-package johnny.java.optional;
+package johnny.java8.newfeatures.optional;
 
 import java.util.Optional;
 
