@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-notify/java-concurrency-notify.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/NotifyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/ForkJoinExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/ForkJoinExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +42,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="5" />
           <entry key="iml" value="23" />
-          <entry key="java" value="538" />
+          <entry key="java" value="545" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -47,7 +51,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="23" />
-          <entry key="JAVA" value="538" />
+          <entry key="JAVA" value="545" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
@@ -56,14 +60,14 @@
         <counts>
           <entry key="dummy" value="204" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="22275" />
+          <entry key="java" value="22507" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22275" />
+          <entry key="JAVA" value="22507" />
           <entry key="JavaScript" value="37" />
           <entry key="PLAIN_TEXT" value="220" />
         </counts>
@@ -78,57 +82,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Worker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="40" column="1" selection-start-line="4" selection-end-line="40" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/SemaphoreExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="30" column="1" selection-start-line="4" selection-end-line="30" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableWorker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="35" column="1" selection-start-line="4" selection-end-line="35" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/CallableWorker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/CallableExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/ForkJoinExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -137,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="-143">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,19 +103,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/RecursiveTask.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="67" column="53" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="211" column="34" selection-start-line="211" selection-start-column="22" selection-end-line="211" selection-end-column="34" />
+            <state relative-caret-position="322">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableWorker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -172,6 +146,46 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="4" selection-end-line="29" selection-end-column="1" />
+              <folding>
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/NotifyExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="93" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ForkJoinTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="211" column="34" selection-start-line="211" selection-start-column="22" selection-end-line="211" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -226,10 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java" />
-        <option value="$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java" />
-        <option value="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java" />
-        <option value="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/CopyOnWriteArrayListExample.java" />
         <option value="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/CopyOnWriteArrayListExample.java" />
         <option value="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/Base64Example.java" />
         <option value="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/DateTimeAPIExample.java" />
@@ -277,6 +287,10 @@
         <option value="$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/CallableExample.java" />
         <option value="$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/ForkJoinExample.java" />
         <option value="$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/Counter.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Consumer.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Message.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/NotifyExample.java" />
       </list>
     </option>
   </component>
@@ -311,18 +325,33 @@
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-concurrency-forkjoin" type="462c0819:PsiDirectoryNode" />
+              <item name="java-concurrency-notify" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-concurrency-forkjoin" type="462c0819:PsiDirectoryNode" />
+              <item name="java-concurrency-notify" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-concurrency-forkjoin" type="462c0819:PsiDirectoryNode" />
+              <item name="java-concurrency-notify" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="forkjoin" type="462c0819:PsiDirectoryNode" />
+              <item name="notify" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-threadpool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,7 +365,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564956921083" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564959611885" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -382,7 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForkJoinExample">
+  <component name="RunManager" selected="Application.NotifyExample">
     <configuration name="CallableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.callable.CallableExample" />
       <module name="java-concurrency-callable" />
@@ -396,12 +425,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.synchronizer.countdownlatch.CountDownLatchExample" />
-      <module name="java-concurrency-synchronizer" />
+    <configuration name="ForkJoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.forkjoin.ForkJoinExample" />
+      <module name="java-concurrency-forkjoin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.concurrency.synchronizer.countdownlatch.*" />
+          <option name="PATTERN" value="johnny.java.concurrency.forkjoin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,12 +438,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForkJoinExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.forkjoin.ForkJoinExample" />
-      <module name="java-concurrency-forkjoin" />
+    <configuration name="NotifyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.notify.NotifyExample" />
+      <module name="java-concurrency-notify" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.concurrency.forkjoin.*" />
+          <option name="PATTERN" value="johnny.java.concurrency.notify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,19 +478,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountDownLatchExample" />
       <item itemvalue="Application.SemaphoreExample" />
       <item itemvalue="Application.RunnableExample" />
       <item itemvalue="Application.CallableExample" />
       <item itemvalue="Application.ForkJoinExample" />
+      <item itemvalue="Application.NotifyExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NotifyExample" />
         <item itemvalue="Application.ForkJoinExample" />
         <item itemvalue="Application.CallableExample" />
         <item itemvalue="Application.RunnableExample" />
         <item itemvalue="Application.SemaphoreExample" />
-        <item itemvalue="Application.CountDownLatchExample" />
       </list>
     </recent_temporary>
   </component>
@@ -639,6 +668,12 @@
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -700,34 +735,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/MathOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/functionalinterface/FunctionalInterfaceExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/defaultmethod/DefaultMethodExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Message.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -993,13 +1000,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="55" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -1025,20 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="187" column="13" selection-start-line="187" selection-start-column="13" selection-end-line="187" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="35" column="1" selection-start-line="4" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1085,11 +1071,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="-143">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="93" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="4" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="4" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/NotifyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
