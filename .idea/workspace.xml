@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="" />
+    <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-socket/.gitignore" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +37,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="5" />
           <entry key="iml" value="23" />
-          <entry key="java" value="484" />
+          <entry key="java" value="494" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -43,25 +46,25 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="23" />
-          <entry key="JAVA" value="484" />
+          <entry key="JAVA" value="494" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="173" />
+          <entry key="dummy" value="180" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="20918" />
+          <entry key="java" value="20998" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20918" />
+          <entry key="JAVA" value="20998" />
           <entry key="JavaScript" value="37" />
-          <entry key="PLAIN_TEXT" value="189" />
+          <entry key="PLAIN_TEXT" value="196" />
         </counts>
       </usages-collector>
     </session>
@@ -72,91 +75,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/stream/StreamExample.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/optional/OptionalClassExample.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/NashornExample.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/BlockingQueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/mtdref/MethodReferencesExample.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/Sender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="285">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/SynchronizeBlockExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/GreetingService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/LambdaExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/MathOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/functionalinterface/FunctionalInterfaceExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            <state relative-caret-position="105">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/defaultmethod/DefaultMethodExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/StreamExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyRunnable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/ThreadExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/Base64Example.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -209,9 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java" />
-        <option value="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ListExample.java" />
-        <option value="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" />
         <option value="$PROJECT_DIR$/java-java8-predicate/test/johnny/java8/predicate/test/PredicateIteratorTest.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" />
         <option value="$PROJECT_DIR$/java-core-iterator/test/johnny/java/core/iterator/test/CommonIteratorTest.java" />
@@ -221,7 +221,6 @@
         <option value="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/Employee.java" />
         <option value="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/SalaryComparator.java" />
         <option value="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/ComparatorExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Service.java" />
         <option value="$PROJECT_DIR$/java-advanced-shallowcopy/src/johnny/java/advanced/shallowcopy/Person.java" />
         <option value="$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/ThreadExample.java" />
         <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/DeadlockConsoleHandler.java" />
@@ -260,6 +259,10 @@
         <option value="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/MathOperation.java" />
         <option value="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/functionalinterface/FunctionalInterfaceExample.java" />
         <option value="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/defaultmethod/DefaultMethodExample.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Service.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/BlockingQueueExample.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/Sender.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/SynchronizeBlockExample.java" />
       </list>
     </option>
   </component>
@@ -280,87 +283,141 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-map" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-nio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-nio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-queuestack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-queuestack" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-set" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-core-socket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-socket" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-staticblock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-staticblock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-typeerasure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-typeerasure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-cryptography" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-cryptography" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-cryptography" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cryptography" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="defaultmethod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="defaultmethod" type="462c0819:PsiDirectoryNode" />
-              <item name="DefaultMethodExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="functionalinterface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="mtdref" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="nashorn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="optional" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="optional" type="462c0819:PsiDirectoryNode" />
-              <item name="OptionalClassExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
@@ -370,6 +427,12 @@
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-java8-predicate" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="predicate" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -382,7 +445,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564889650309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564891657197" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -428,13 +491,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BlockingQueueExample">
-    <configuration name="BlockingQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.blockingqueue.BlockingQueueExample" />
-      <module name="java-concurrency-blockingqueue" />
+  <component name="RunManager" selected="Application.SynchronizeBlockExample">
+    <configuration name="Base64Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java8.newfeatures.Base64Example" />
+      <module name="java-java8-newfeatures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.concurrency.blockingqueue.*" />
+          <option name="PATTERN" value="johnny.java8.newfeatures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -442,12 +505,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyOnWriteArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.list.CopyOnWriteArrayListExample" />
-      <module name="java-core-list" />
+    <configuration name="BlockingQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.blockingqueue.BlockingQueueExample" />
+      <module name="java-concurrency-blockingqueue" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.list.*" />
+          <option name="PATTERN" value="johnny.java.concurrency.blockingqueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -468,12 +531,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.set.HashSetExample" />
-      <module name="java-core-set" />
+    <configuration name="SynchronizeBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.synchronization.SynchronizeBlockExample" />
+      <module name="java-concurrency-synchronization" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.set.*" />
+          <option name="PATTERN" value="johnny.java.concurrency.synchronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -495,19 +558,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CopyOnWriteArrayListExample" />
-      <item itemvalue="Application.HashSetExample (1)" />
       <item itemvalue="Application.TreeSetExample" />
       <item itemvalue="Application.DefaultMethodExample" />
       <item itemvalue="Application.BlockingQueueExample" />
+      <item itemvalue="Application.Base64Example" />
+      <item itemvalue="Application.SynchronizeBlockExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SynchronizeBlockExample" />
+        <item itemvalue="Application.Base64Example" />
         <item itemvalue="Application.BlockingQueueExample" />
         <item itemvalue="Application.DefaultMethodExample" />
         <item itemvalue="Application.TreeSetExample" />
-        <item itemvalue="Application.HashSetExample (1)" />
-        <item itemvalue="Application.CopyOnWriteArrayListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -745,72 +808,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/AvoidDeadlockExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="53" lean-forward="true" selection-start-line="2" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/DeadlockExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="51" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="153" column="30" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DeadlockDetector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="42" column="1" selection-start-line="9" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionHandlerImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="77" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIteratorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/BiggerThanFivePredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-functional/src/johnny/java/functional/PredicateTest.java" />
     <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionExample.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1006,13 +1003,6 @@
     <entry file="file://$PROJECT_DIR$/java-core-socket/java-core-socket.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/Base64Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/DateTimeAPIExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1087,6 +1077,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/BlockingQueueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/Base64Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/ThreadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/SynchronizeBlockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/StreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
