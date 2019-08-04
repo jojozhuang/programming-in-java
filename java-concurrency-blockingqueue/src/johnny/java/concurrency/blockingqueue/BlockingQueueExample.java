@@ -3,7 +3,7 @@ package johnny.java.concurrency.blockingqueue;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
-public class Service {
+public class BlockingQueueExample {
     public static void main(String[] args) {
 
         //Creating BlockingQueue of size 10

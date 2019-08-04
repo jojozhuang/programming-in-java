@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/java-java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/java-java8-newfeatures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/Base64Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/Base64Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/DateTimeAPIExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/DateTimeAPIExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/defaultmethod/DefaultMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/defaultmethod/DefaultMethodExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/functionalinterface/FunctionalInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/functionalinterface/FunctionalInterfaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/GreetingService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/LambdaExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/LambdaExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/lambda/MathOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/MathOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/mtdref/MethodReferencesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/mtdref/MethodReferencesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/nashorn/NashornExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/NashornExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/nashorn/calljava.js" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/calljava.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/nashorn/sample.js" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/sample.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/optional/OptionalClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/optional/OptionalClassExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-java8/src/johnny/java/stream/StreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/stream/StreamExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -400,7 +382,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564887262406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564889650309" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -446,7 +428,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DefaultMethodExample">
+  <component name="RunManager" selected="Application.BlockingQueueExample">
+    <configuration name="BlockingQueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.blockingqueue.BlockingQueueExample" />
+      <module name="java-concurrency-blockingqueue" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.concurrency.blockingqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CopyOnWriteArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.core.list.CopyOnWriteArrayListExample" />
       <module name="java-core-list" />
@@ -486,19 +481,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.HashSetExample" />
-      <module name="java-core-set" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.core.map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.core.set.TreeSetExample" />
       <module name="java-core-set" />
@@ -513,19 +495,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashSetExample" />
       <item itemvalue="Application.CopyOnWriteArrayListExample" />
       <item itemvalue="Application.HashSetExample (1)" />
       <item itemvalue="Application.TreeSetExample" />
       <item itemvalue="Application.DefaultMethodExample" />
+      <item itemvalue="Application.BlockingQueueExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BlockingQueueExample" />
         <item itemvalue="Application.DefaultMethodExample" />
         <item itemvalue="Application.TreeSetExample" />
         <item itemvalue="Application.HashSetExample (1)" />
         <item itemvalue="Application.CopyOnWriteArrayListExample" />
-        <item itemvalue="Application.HashSetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +558,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.38125893" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
