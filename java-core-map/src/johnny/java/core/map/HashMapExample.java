@@ -1,4 +1,4 @@
-package johnny.java.collection;
+package johnny.java.core.map;
 
 import java.util.*;
 

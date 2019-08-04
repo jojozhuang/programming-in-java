@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-core-set/java-core-set.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/java-collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/java-core-setmap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/CopyOnWriteArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/CopyOnWriteArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashSetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/TreeMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-collection/src/johnny/java/collection/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/TreeSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-setmap/java-core-setmap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-map/java-core-map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/CopyOnWriteArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/HashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/HashSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/TreeMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/TreeMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/TreeSetExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +44,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="5" />
           <entry key="iml" value="21" />
-          <entry key="java" value="468" />
+          <entry key="java" value="472" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -51,7 +53,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="21" />
-          <entry key="JAVA" value="468" />
+          <entry key="JAVA" value="472" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
@@ -80,15 +82,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/StackExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -98,16 +91,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashMapExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/HashMapExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1404">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/TreeMapExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/CopyOnWriteArrayListExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="850" selection-start-line="850" selection-end-line="850" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/HashSetExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashSetExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/TreeSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -138,29 +167,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-list/java-core-list.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/LinkedListExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -213,8 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/CommonIterator.java" />
-        <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/CommonIteratorExample.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/RemoveIterator.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/RemovableIteratorExample.java" />
         <option value="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/BiggerThanFivePredicate.java" />
@@ -264,6 +268,8 @@
         <option value="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java" />
         <option value="$PROJECT_DIR$/java-cryptography/test/johnny/java/cryptography/test/EncryptorTest.java" />
         <option value="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java" />
+        <option value="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/CopyOnWriteArrayListExample.java" />
+        <option value="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/CopyOnWriteArrayListExample.java" />
       </list>
     </option>
   </component>
@@ -284,33 +290,48 @@
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-queuestack" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-queuestack" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-queuestack" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-list" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="queuestack" type="462c0819:PsiDirectoryNode" />
+              <item name="list" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-setmap" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-map" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-setmap" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-map" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-setmap" type="462c0819:PsiDirectoryNode" />
+              <item name="java-core-map" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-set" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-set" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="set" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,7 +344,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564867978420" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564882294929" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -353,6 +374,7 @@
       <recent name="johnny.java.core.generics" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection" />
       <recent name="$PROJECT_DIR$/java-array-arraylist/src/johnny/java/arraylist" />
     </key>
   </component>
@@ -368,13 +390,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashSetExample">
-    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.HashSetExample" />
-      <module name="java-core-setmap" />
+  <component name="RunManager" selected="Application.TreeSetExample">
+    <configuration name="CopyOnWriteArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.list.CopyOnWriteArrayListExample" />
+      <module name="java-core-list" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.collection.*" />
+          <option name="PATTERN" value="johnny.java.core.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,12 +404,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.list.LinkedListExample" />
-      <module name="java-core-list" />
+    <configuration name="HashSetExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.set.HashSetExample" />
+      <module name="java-core-set" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.list.*" />
+          <option name="PATTERN" value="johnny.java.core.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.collection.HashSetExample" />
+      <module name="java-core-set" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.core.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -408,25 +443,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.queuestack.QueueExample" />
-      <module name="java-core-queuestack" />
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.core.set.TreeSetExample" />
+      <module name="java-core-set" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.core.queuestack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.core.queuestack.StackExample" />
-      <module name="java-core-queuestack" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.core.queuestack.*" />
+          <option name="PATTERN" value="johnny.java.core.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,18 +458,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.PriorityQueueExample" />
-      <item itemvalue="Application.LinkedListExample" />
-      <item itemvalue="Application.QueueExample" />
-      <item itemvalue="Application.StackExample" />
       <item itemvalue="Application.HashSetExample" />
+      <item itemvalue="Application.CopyOnWriteArrayListExample" />
+      <item itemvalue="Application.HashSetExample (1)" />
+      <item itemvalue="Application.TreeSetExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetExample" />
+        <item itemvalue="Application.HashSetExample (1)" />
+        <item itemvalue="Application.CopyOnWriteArrayListExample" />
         <item itemvalue="Application.HashSetExample" />
         <item itemvalue="Application.PriorityQueueExample" />
-        <item itemvalue="Application.StackExample" />
-        <item itemvalue="Application.QueueExample" />
-        <item itemvalue="Application.LinkedListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -508,8 +530,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.28004956" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.28004956" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -686,34 +708,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" selection-start-column="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-advanced-shallowcopy/src/johnny/java/advanced/shallowcopy/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1039,14 +1033,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashMapExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/HashMapExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1404">
+        <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-setmap/src/johnny/java/collection/HashSetExample.java">
+    <entry file="file://$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/TreeMapExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="850" selection-start-line="850" selection-end-line="850" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/CopyOnWriteArrayListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/HashSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/TreeSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />

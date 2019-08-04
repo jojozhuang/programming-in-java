@@ -1,4 +1,4 @@
-package johnny.java.collection;
+package johnny.java.core.set;
 
 import java.util.*;
 
