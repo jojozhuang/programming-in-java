@@ -13,6 +13,7 @@ public class NotifyExample {
         Producer producer = new Producer(msg);
         new Thread(producer, "Producer").start();
 
+        Thread.sleep(1000);
         System.out.println("main: All the threads are started");
     }
 }
