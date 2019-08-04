@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledThreadPoolExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/java-concurrency-synchronizer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/CountDownLatchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/CyclicBarrierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/SemaphoreExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/Service.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ThreadPoolExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedThreadPoolExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/test/johnny/java/concurrency/threadpool/test/ServiceTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +45,7 @@
           <entry key="class" value="8" />
           <entry key="gitignore" value="5" />
           <entry key="iml" value="23" />
-          <entry key="java" value="514" />
+          <entry key="java" value="527" />
           <entry key="js" value="2" />
           <entry key="tax" value="1" />
         </counts>
@@ -51,7 +54,7 @@
         <counts>
           <entry key="CLASS" value="8" />
           <entry key="IDEA_MODULE" value="23" />
-          <entry key="JAVA" value="514" />
+          <entry key="JAVA" value="527" />
           <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
@@ -60,14 +63,14 @@
         <counts>
           <entry key="dummy" value="198" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="21332" />
+          <entry key="java" value="21997" />
           <entry key="js" value="37" />
           <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21332" />
+          <entry key="JAVA" value="21997" />
           <entry key="JavaScript" value="37" />
           <entry key="PLAIN_TEXT" value="214" />
         </counts>
@@ -80,101 +83,104 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/CyclicBarrierExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" selection-start-line="5" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedThreadPoolExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="-184">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/CountDownLatchExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/Worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledThreadPoolExample.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Worker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="1" selection-end-line="17" />
+            <state relative-caret-position="69">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/SemaphoreExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="153" column="30" selection-start-line="153" selection-start-column="30" selection-end-line="153" selection-end-column="30" />
+            <state relative-caret-position="75">
+              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/ThreadExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="318" column="50" selection-start-line="318" selection-start-column="50" selection-end-line="318" selection-end-column="50" />
+            <state relative-caret-position="165">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="136" column="47" selection-start-line="136" selection-start-column="47" selection-end-line="136" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+            <state relative-caret-position="195">
+              <caret line="18" column="55" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -229,15 +235,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DeadlockDetectionExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionHandler.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DeadlockConsoleHandler.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DeadlockDetector.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionConsoleHandler.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionHandlerImp.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionExample.java" />
-        <option value="$PROJECT_DIR$/java-functional/src/johnny/java/functional/PredicateTest.java" />
-        <option value="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateExample.java" />
         <option value="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/UDPServer.java" />
         <option value="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/UDPClient.java" />
         <option value="$PROJECT_DIR$/java-protocal-udp/src/johnny/java/protocol/TCPClient.java" />
@@ -280,6 +277,15 @@
         <option value="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledTask.java" />
         <option value="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedThreadPoolExample.java" />
         <option value="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledThreadPoolExample.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation1.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation2.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/CyclicBarrierExample.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/CountDownLatchExample.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/Worker.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Shared.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/MyThread.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/SemaphoreExample.java" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Worker.java" />
       </list>
     </option>
   </component>
@@ -297,6 +303,57 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-synchronizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="countdownlatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="cyclicbarrier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="synchronizer" type="462c0819:PsiDirectoryNode" />
+              <item name="semaphore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-thread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-concurrency-threadpool" type="462c0819:PsiDirectoryNode" />
@@ -324,7 +381,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564935907533" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564944117246" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -370,13 +427,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScheduledThreadPoolExample">
-    <configuration name="Base64Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java8.newfeatures.Base64Example" />
-      <module name="java-java8-newfeatures" />
+  <component name="RunManager" selected="Application.SemaphoreExample">
+    <configuration name="CountDownLatchExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.synchronizer.countdownlatch.CountDownLatchExample" />
+      <module name="java-concurrency-synchronizer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java8.newfeatures.*" />
+          <option name="PATTERN" value="johnny.java.concurrency.synchronizer.countdownlatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclicBarrierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.synchronizer.cyclicbarrier.CyclicBarrierExample" />
+      <module name="java-concurrency-synchronizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.concurrency.synchronizer.cyclicbarrier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,19 +467,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceConditionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.synchronization.racecondition.RaceConditionExample" />
-      <module name="java-concurrency-synchronization" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.concurrency.synchronization.racecondition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ScheduledThreadPoolExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.threadpool.ScheduledThreadPoolExample" />
       <module name="java-concurrency-threadpool" />
@@ -423,12 +480,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizeBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.synchronization.SynchronizeBlockExample" />
-      <module name="java-concurrency-synchronization" />
+    <configuration name="SemaphoreExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.concurrency.synchronizer.semaphore.SemaphoreExample" />
+      <module name="java-concurrency-synchronizer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.concurrency.synchronization.racecondition.*" />
+          <option name="PATTERN" value="johnny.java.concurrency.synchronizer.semaphore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,19 +494,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Base64Example" />
-      <item itemvalue="Application.SynchronizeBlockExample" />
-      <item itemvalue="Application.RaceConditionExample" />
       <item itemvalue="Application.FixedThreadPoolExample" />
       <item itemvalue="Application.ScheduledThreadPoolExample" />
+      <item itemvalue="Application.CyclicBarrierExample" />
+      <item itemvalue="Application.CountDownLatchExample" />
+      <item itemvalue="Application.SemaphoreExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SemaphoreExample" />
+        <item itemvalue="Application.CountDownLatchExample" />
+        <item itemvalue="Application.CyclicBarrierExample" />
         <item itemvalue="Application.ScheduledThreadPoolExample" />
         <item itemvalue="Application.FixedThreadPoolExample" />
-        <item itemvalue="Application.RaceConditionExample" />
-        <item itemvalue="Application.SynchronizeBlockExample" />
-        <item itemvalue="Application.Base64Example" />
       </list>
     </recent_temporary>
   </component>
@@ -511,7 +568,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.28004956" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.43122676" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -688,76 +745,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/StackExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/HashMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/TreeMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/CopyOnWriteArrayListExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12075">
-          <caret line="850" selection-start-line="850" selection-end-line="850" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/HashSetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/PriorityQueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/TreeSetExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/java-java8-newfeatures.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -936,20 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/ThreadExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/DeadlockExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1013,13 +986,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" selection-start-line="5" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedThreadPoolExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1044,10 +1010,114 @@
     <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledThreadPoolExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="1" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="464" column="16" selection-start-line="464" selection-start-column="16" selection-end-line="464" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Shared.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/CountDownLatchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/CyclicBarrierExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/ThreadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/SemaphoreExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
