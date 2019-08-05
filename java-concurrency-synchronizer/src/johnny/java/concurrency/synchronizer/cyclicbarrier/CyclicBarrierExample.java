@@ -22,8 +22,7 @@ public class CyclicBarrierExample {
         try {
             barrier.await();
         }
-        catch (InterruptedException | BrokenBarrierException e)
-        {
+        catch (InterruptedException | BrokenBarrierException e) {
             e.printStackTrace();
         }
 
