@@ -26,11 +26,9 @@ public class CallableTask implements Callable<String> {
 
             BufferedReader br = new BufferedReader(new FileReader(file));
 
-            String st;
-            while ((st = br.readLine()) != null) {
-                //System.out.println("Read content from file : " + path + " at " + LocalDateTime.now().toString());
-                //System.out.println("File " + filename + ": " + st);
-                content += st;
+            String line;
+            while ((line = br.readLine()) != null) {
+                content += line;
             }
 
         } catch (FileNotFoundException e1) {
