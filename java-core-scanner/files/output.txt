@@ -1,0 +1,5 @@
+apple: 8.4
+pear: 15.0
+peach: 10.3
+blueberry: 30.0
+coconut: 8.6
