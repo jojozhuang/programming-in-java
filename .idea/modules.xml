@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-advanced-classnotfound/java-advanced-classnotfound.iml" filepath="$PROJECT_DIR$/java-advanced-classnotfound/java-advanced-classnotfound.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" filepath="$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-advanced-webservice/java-advanced-webservice.iml" filepath="$PROJECT_DIR$/java-advanced-webservice/java-advanced-webservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" filepath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" />
