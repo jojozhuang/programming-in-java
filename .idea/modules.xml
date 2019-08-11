@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-advanced-webservice/java-advanced-webservice.iml" filepath="$PROJECT_DIR$/java-advanced-webservice/java-advanced-webservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" filepath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-callable/java-concurrency-callable.iml" filepath="$PROJECT_DIR$/java-concurrency-callable/java-concurrency-callable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/java-concurrency-concurrentskiplistmap.iml" filepath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/java-concurrency-concurrentskiplistmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" filepath="$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-forkjoin/java-concurrency-forkjoin.iml" filepath="$PROJECT_DIR$/java-concurrency-forkjoin/java-concurrency-forkjoin.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-concurrency-notify/java-concurrency-notify.iml" filepath="$PROJECT_DIR$/java-concurrency-notify/java-concurrency-notify.iml" />
