@@ -32,7 +32,4 @@ public class ThreadLocalExample {
             System.out.println(Thread.currentThread() + ":"+ threadLocal.get());
         }
     }
-
-
-
 }

@@ -13,7 +13,7 @@ public class IntegerExample {
     }
 
     public static class Task implements Runnable {
-        private Integer count = new Integer(0);
+        private Integer number = new Integer(0);
         private NumberGenerator generator;
 
         public Task(NumberGenerator generator) {
@@ -22,15 +22,14 @@ public class IntegerExample {
 
         @Override
         public void run() {
-            count = generator.random(100);
-            System.out.println(count);
+            number = generator.random(100);
+            System.out.println(number);
             try {
                 Thread.sleep(2000);
             } catch (InterruptedException e) {
             }
 
-            System.out.println(count);
+            System.out.println(number);
         }
     }
-
 }
