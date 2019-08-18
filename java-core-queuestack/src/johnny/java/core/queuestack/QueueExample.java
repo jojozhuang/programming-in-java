@@ -10,14 +10,14 @@ import java.util.concurrent.BlockingQueue;
 public class QueueExample {
     public static void main(String[] args) {
 
-        constructList();
+        constructQueue();
 
         insert();
         delete();
         examine();
     }
 
-    private static void constructList() {
+    private static void constructQueue() {
         Queue<String> queue = new LinkedList<>();
         queue.add("one");
         queue.add("two");
@@ -47,21 +47,21 @@ public class QueueExample {
     // insert
     private static void insert() {
         System.out.println("Queue - insert");
-        // add
-        BlockingQueue<String> queue = new ArrayBlockingQueue<>(2);
+        // add method
+        Queue<String> queue = new LinkedList<>();
         System.out.println(queue.add("one"));   // true
         System.out.println(queue.add("two"));   // true
         System.out.println(queue);              // [one, two]
-        //System.out.println(queue.add("three")); // java.lang.IllegalStateException: Queue full
-        System.out.println(queue);
+        System.out.println(queue.add("three")); // true
+        System.out.println(queue);              // [one, two, three]
 
-        // offer
-        BlockingQueue<String> queue2 = new ArrayBlockingQueue<>(2);
+        // offer method
+        Queue<String> queue2 = new LinkedList<>();
         System.out.println(queue2.offer("one"));   // true
         System.out.println(queue2.offer("two"));   // true
         System.out.println(queue2);                   // [one, two]
-        System.out.println(queue2.offer("three")); // false
-        System.out.println(queue2);                   // [one, two]
+        System.out.println(queue2.offer("three")); // true
+        System.out.println(queue2);                   // [one, two, three]
     }
 
     // delete
