@@ -40,6 +40,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-java8-newfeatures/java-java8-newfeatures.iml" filepath="$PROJECT_DIR$/java-java8-newfeatures/java-java8-newfeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" filepath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-redis/java-redis.iml" filepath="$PROJECT_DIR$/java-redis/java-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-summary-collection/java-summary-collection.iml" filepath="$PROJECT_DIR$/java-summary-collection/java-summary-collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-versions/java-versions.iml" filepath="$PROJECT_DIR$/java-versions/java-versions.iml" />
     </modules>
   </component>
