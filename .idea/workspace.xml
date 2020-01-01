@@ -2,11 +2,343 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9de6473-f327-4b60-b369-1c78070ba673" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-advanced-classnotfound/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-advanced-shallowcopy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-advanced-weakhashmap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-blockingqueue/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-callable/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-deadlock/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-forkjoin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-notify/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-readfiles/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronization/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-thread/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-threadlocal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-concurrency-threadpool/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-arraylist/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-bitset/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-comparator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-enum/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-formatting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-generics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-io/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-iterator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-list/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-map/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-nio/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-queuestack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-scanner/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-set/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-socket/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-staticblock/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-core-typeerasure/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-cryptography/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-java8-newfeatures/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-java8-predicate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-redis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-summary-collection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-versions/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-classnotfound/java-advanced-classnotfound.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-classnotfound/java-advanced-classnotfound.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/AnotherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/ClassNotFoundExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/NoClassDefFoundErrorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-shallowcopy/java-advanced-shallowcopy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-shallowcopy/src/johnny/java/advanced/shallowcopy/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-shallowcopy/src/johnny/java/advanced/shallowcopy/ShallowCopyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-weakhashmap/java-advanced-weakhashmap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-weakhashmap/java-advanced-weakhashmap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-weakhashmap/src/johnny/java/advanced/weakhashmap/HashMapGCExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-weakhashmap/src/johnny/java/advanced/weakhashmap/Resource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-weakhashmap/src/johnny/java/advanced/weakhashmap/WeakHashMapGCExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-webservice/java-advanced-webservice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-webservice/java-advanced-webservice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advanced-webservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advanced-webservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-blockingqueue/java-concurrency-blockingqueue.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/BlockingQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-blockingqueue/src/johnny/java/concurrency/blockingqueue/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-callable/java-concurrency-callable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-callable/java-concurrency-callable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/CallableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/CallableWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-callable/src/johnny/java/concurrency/callable/RunnableWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/java-concurrency-concurrentskiplistmap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/java-concurrency-concurrentskiplistmap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/ConcurrentSkipListMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/SortedEventWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-deadlock/java-concurrency-deadlock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/AvoidDeadlockExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/DeadlockExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DeadlockDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-deadlock/src/johnny/java/concurrency/deadlock/detection/DetectionHandlerImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-forkjoin/java-concurrency-forkjoin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-forkjoin/java-concurrency-forkjoin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-forkjoin/src/johnny/java/concurrency/forkjoin/ForkJoinExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-notify/java-concurrency-notify.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-notify/java-concurrency-notify.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/NotifyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/java-concurrency-readfiles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-readfiles/java-concurrency-readfiles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/CallableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/CallableTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/CountDownLatchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/CountDownLatchTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/CyclicBarrierExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/CyclicBarrierTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/RunnableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-readfiles/src/johnny/java/concurrency/readfiles/RunnableTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/java-concurrency-synchronization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-synchronization/java-concurrency-synchronization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/Sender1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/Sender2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/SynchronizeBlockExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/racecondition/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/racecondition/RaceConditionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/racecondition/WorkerThread1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/racecondition/WorkerThread2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/java-concurrency-synchronizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-synchronizer/java-concurrency-synchronizer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/CountDownLatchExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/countdownlatch/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/Computation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/cyclicbarrier/CyclicBarrierExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/SemaphoreExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-synchronizer/src/johnny/java/concurrency/synchronizer/semaphore/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-thread/java-concurrency-thread.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-thread/src/johnny/java/concurrency/thread/ThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/java-concurrency-threadlocal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-threadlocal/java-concurrency-threadlocal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/inheritable/ChildThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/inheritable/InheritanceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/inheritable/ParentThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/CustomThreadLocalExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/IntegerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/NumberGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/PrimitiveExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/PrimitiveSyncExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/ThreadLocalExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocalrandom/ThreadLocalRandomExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/withoutinheritable/ChildThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/withoutinheritable/InheritanceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/withoutinheritable/ParentThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/java-concurrency-threadpool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-concurrency-threadpool/java-concurrency-threadpool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedThreadPoolExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledThreadPoolExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-arraylist/java-core-arraylist.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayToList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/CopyArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ListToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-basic/java-core-basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/AutoboxingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/CharSequenceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/CharacterExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/LoopExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StaticKeywordExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringBufferExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringBuilderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/WrapperClassExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/interfaceabstract/BaseShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/interfaceabstract/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/interfaceabstract/CircleImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/interfaceabstract/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/interfaceabstract/RectangleImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/interfaceabstract/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/interfaceabstract/ShapeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-bitset/java-core-bitset.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-bitset/src/johnny/java/core/bitset/BitSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-comparator/java-core-comparator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-comparator/java-core-comparator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/ComparatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-comparator/src/johnny/java/core/comparator/SalaryComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-enum/java-core-enum.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-enum/java-core-enum.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumConstantExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/EnumExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-enum/src/johnny/java/core/enums/ThreadStatesEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-formatting/java-core-formatting.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-formatting/src/johnny/java/core/formatting/FormattingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/java-core-generics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-generics/java-core-generics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericClassExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/GenericMethodsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/MultipleTypeParametersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/NamingConventionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/ParameterizedTypesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/RawTypesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/TypeInferenceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/BoundedTypeParametersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/boundedtype/MultipleBoundsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/collections/GenericSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/LowerBoundedWildcardsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UnboundedWildcardsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-generics/src/johnny/java/core/generics/wildcards/UpperBoundedWildcardsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-io/java-core-io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-io/java-core-io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/FileDirectoryExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-io/src/johnny/java/core/io/StreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/CommonIteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/IteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/ModificationExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/PredicateIteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/RemovableIteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/SortedIteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/BiggerThanFivePredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/CommonIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/PredicateIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/RemovableIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/custom/SortedIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-list/java-core-list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-list/java-core-list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/CopyOnWriteArrayListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/LinkedListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-map/java-core-map.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-map/java-core-map.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/HashMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/TreeMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-nio/java-core-nio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/MappedByteBufferExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileBufferedReaderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-queuestack/java-core-queuestack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-queuestack/java-core-queuestack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/BlockingQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/DequeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/PriorityQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/StackExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/java-core-scanner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-scanner/java-core-scanner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/src/johnny/java/core/scanner/CustomDelimiterExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/src/johnny/java/core/scanner/DefaultDelimiterExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/src/johnny/java/core/scanner/NextExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/src/johnny/java/core/scanner/NextLineExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/src/johnny/java/core/scanner/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/src/johnny/java/core/scanner/ScannerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-scanner/src/johnny/java/core/scanner/ScannerFileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-set/java-core-set.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-set/java-core-set.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/HashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-set/src/johnny/java/core/set/TreeSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-socket/java-core-socket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-socket/java-core-socket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/TCPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-staticblock/java-core-staticblock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/StaticBlockExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-typeerasure/java-core-typeerasure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core-typeerasure/java-core-typeerasure.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/BoundedTypesErasureExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/MethodsErasureExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/MethodsErasureExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/UnboundedTypesErasureExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core-typeerasure/src/johnn/java/core/typeerasure/UnboundedTypesErasureExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-cryptography/java-cryptography.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-cryptography/src/johnny/java/cryptography/Encryptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/java-java8-newfeatures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-newfeatures/java-java8-newfeatures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/Base64Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/DateTimeAPIExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/defaultmethod/DefaultMethodExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/functionalinterface/FunctionalInterfaceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/GreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/LambdaExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/lambda/MathOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/mtdref/MethodReferencesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/NashornExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/calljava.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/optional/OptionalClassExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/stream/StreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-java8-predicate/java-java8-predicate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/BiggerThanFivePredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIterator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-java8-predicate/src/johnny/java8/predicate/PredicateIteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-redis/java-redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-redis/java-redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-summary-collection/java-summary-collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-summary-collection/java-summary-collection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/ListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/PriorityQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/SetMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/SortedSetMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/StackQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/java-versions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-versions/java-versions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java7/BinaryLiteralExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java7/StringInSwitchCaseExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java7/TryWithResourcesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java7/UnderscoreInNumericLiteralExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java8/DefaultStaticInterfaceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java8/ForEachExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java8/LambdaExpressionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java8/SpliteratorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java8/StreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-versions/src/johnny/java/java8/TimeApiExample.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/java-advanced-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/java-advanced-classnotfound/target/" />
+    <ignored path="$PROJECT_DIR$/java-advanced-shallowcopy/target/" />
+    <ignored path="$PROJECT_DIR$/java-advanced-weakhashmap/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-blockingqueue/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-callable/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-deadlock/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-forkjoin/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-notify/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-readfiles/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-synchronization/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-synchronizer/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-thread/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-threadlocal/target/" />
+    <ignored path="$PROJECT_DIR$/java-concurrency-threadpool/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-arraylist/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-basic/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-bitset/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-comparator/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-enum/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-formatting/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-generics/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-io/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-iterator/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-list/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-map/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-nio/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-queuestack/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-scanner/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-set/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-socket/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-staticblock/target/" />
+    <ignored path="$PROJECT_DIR$/java-core-typeerasure/target/" />
+    <ignored path="$PROJECT_DIR$/java-cryptography/target/" />
+    <ignored path="$PROJECT_DIR$/java-java8-newfeatures/target/" />
+    <ignored path="$PROJECT_DIR$/java-java8-predicate/target/" />
+    <ignored path="$PROJECT_DIR$/java-redis/target/" />
+    <ignored path="$PROJECT_DIR$/java-summary-collection/target/" />
+    <ignored path="$PROJECT_DIR$/java-versions/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +353,16 @@
     <session id="459415340">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="68" />
-          <entry key="project.open.time.0" value="31" />
-          <entry key="project.open.time.1" value="9" />
+          <entry key="project.closed" value="71" />
+          <entry key="project.open.time.0" value="32" />
+          <entry key="project.open.time.1" value="12" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.3" value="9" />
           <entry key="project.open.time.4" value="13" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="69" />
+          <entry key="project.opened" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,7 +376,7 @@
           <entry key="md" value="1" />
           <entry key="tax" value="1" />
           <entry key="txt" value="2" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -54,7 +386,7 @@
           <entry key="JAVA" value="656" />
           <entry key="JavaScript" value="4" />
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -64,6 +396,7 @@
           <entry key="java" value="27795" />
           <entry key="js" value="37" />
           <entry key="txt" value="93" />
+          <entry key="xml" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -71,6 +404,7 @@
           <entry key="JAVA" value="27795" />
           <entry key="JavaScript" value="37" />
           <entry key="PLAIN_TEXT" value="331" />
+          <entry key="XML" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -86,15 +420,15 @@
         <entry file="file://$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="16" selection-end-line="21" selection-end-column="9" />
+              <caret line="22" column="16" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/ListExample.java">
+        <entry file="file://$PROJECT_DIR$/java-summary-collection/src/main/java/johnny/java/summary/collection/ListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="90">
               <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -104,9 +438,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/StackQueueExample.java">
+        <entry file="file://$PROJECT_DIR$/java-summary-collection/src/main/java/johnny/java/summary/collection/StackQueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
+            <state relative-caret-position="675">
               <caret line="45" selection-start-line="45" selection-end-line="54" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,9 +450,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/PriorityQueueExample.java">
+        <entry file="file://$PROJECT_DIR$/java-summary-collection/src/main/java/johnny/java/summary/collection/PriorityQueueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
+            <state relative-caret-position="1035">
               <caret line="69" column="5" selection-start-line="52" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -137,17 +471,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/calljava.js">
+        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/main/java/johnny/java8/newfeatures/nashorn/calljava.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/sample.js">
+        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/main/java/johnny/java8/newfeatures/nashorn/sample.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/NashornExample.java">
+        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/main/java/johnny/java8/newfeatures/nashorn/NashornExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -156,16 +490,376 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-basic/src/main/java/johnny/java/core/basic/StringExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="810">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-formatting/src/johnny/java/core/formatting/FormattingExample.java">
+        <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-advanced-weakhashmap/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-callable/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-forkjoin/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-readfiles/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-thread/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-threadlocal/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-basic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-bitset/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-comparator/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-enum/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-formatting/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-generics/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-io/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-iterator/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-list/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-map/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-nio/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-queuestack/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-scanner/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-set/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-socket/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-staticblock/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-typeerasure/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-cryptography/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-java8-predicate/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-redis/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-summary-collection/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-versions/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-advanced-shallowcopy/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-core-formatting/src/main/java/johnny/java/core/formatting/FormattingExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -174,9 +868,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-versions/src/johnny/java/java8/DefaultStaticInterfaceExample.java">
+        <entry file="file://$PROJECT_DIR$/java-versions/src/main/java/johnny/java/java8/DefaultStaticInterfaceExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
+            <state relative-caret-position="465">
               <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
             </state>
           </provider>
@@ -187,13 +881,13 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringBuilderExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-basic/src/main/java/johnny/java/core/basic/StringBuilderExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -202,7 +896,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-basic/src/main/java/johnny/java/core/basic/ArrayExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -211,7 +905,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/CommonIteratorExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/main/java/johnny/java/core/iterator/CommonIteratorExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -220,7 +914,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-versions/src/johnny/java/java7/BinaryLiteralExample.java">
+        <entry file="file://$PROJECT_DIR$/java-versions/src/main/java/johnny/java/java7/BinaryLiteralExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -229,7 +923,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/AnotherClass.java">
+        <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/main/java/johnny/java/advanced/AnotherClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -238,7 +932,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/ClassNotFoundExceptionExample.java">
+        <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/main/java/johnny/java/advanced/ClassNotFoundExceptionExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -247,7 +941,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/NoClassDefFoundErrorExample.java">
+        <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/main/java/johnny/java/advanced/NoClassDefFoundErrorExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -256,7 +950,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/SortedIteratorExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-iterator/src/main/java/johnny/java/core/iterator/SortedIteratorExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -265,10 +959,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
+        <entry file="file://$PROJECT_DIR$/java-redis/src/main/java/johnny/java/redis/RedisExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="30">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -283,7 +977,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/Sender1.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/src/main/java/johnny/java/concurrency/synchronization/Sender1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -292,7 +986,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/main/java/johnny/java/core/arraylist/ArrayExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -301,7 +995,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayToList.java">
+        <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/main/java/johnny/java/core/arraylist/ArrayToList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -310,7 +1004,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Consumer.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -319,7 +1013,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Message.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/Message.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -328,7 +1022,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/NotifyExample.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/NotifyExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -337,7 +1031,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java">
+        <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -346,7 +1040,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/CharacterExample.java">
+        <entry file="file://$PROJECT_DIR$/java-core-basic/src/main/java/johnny/java/core/basic/CharacterExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -421,47 +1115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java-advanced-webservice/src/main/java/johnny/java/advanced/webservice/HelloService.java" />
-        <option value="$PROJECT_DIR$/java-advanced-webservice/src/main/java/johnny/java/advanced/webservice/server/HelloServiceImpl.java" />
-        <option value="$PROJECT_DIR$/java-advanced-webservice/src/main/java/johnny/java/advanced/webservice/server/WebServiceExample.java" />
-        <option value="$PROJECT_DIR$/java-advanced-webservice/src/main/java/johnny/java/advanced/webservice/server/WSServer.java" />
-        <option value="$PROJECT_DIR$/java-advanced-webservice/src/main/java/johnny/java/advanced/webservice/client/WSClient.java" />
-        <option value="$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/AnotherClass.java" />
-        <option value="$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/ClassNotFoundExceptionExample.java" />
-        <option value="$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/NoClassDefFoundErrorExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/MyClass2.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/NumberGenerator.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/PrimitiveSyncExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/PrimitiveExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/IntegerExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/MyClass.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/ThreadLocalExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-synchronizedblock/src/johnny/java/concurrency/synchronizedblock/CustomThreadLocalExample.java" />
-        <option value="$PROJECT_DIR$/java-advanced-weakhashmap/src/johnny/java/advanced/weakhashmap/Resource.java" />
-        <option value="$PROJECT_DIR$/java-advanced-weakhashmap/src/johnny/java/advanced/weakhashmap/HashMapGCExample.java" />
-        <option value="$PROJECT_DIR$/java-advanced-weakhashmap/src/johnny/java/advanced/weakhashmap/WeakHashMapGCExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/ThreadLocalExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/PrimitiveExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/PrimitiveSyncExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/IntegerExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/threadlocal/CustomThreadLocalExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/inheritable/ThreadLocalExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/inheritable/ThreadLocalExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/inheritable/InheritanceExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/inheritable/ParentThread.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/withoutinheritable/ParentThread.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/inheritable/ChildThread.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/withoutinheritable/ChildThread.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocalrandom/ThreadLocalRandomExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/Event.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/ConcurrentSkipListMapExample2.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledThreadPoolExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedThreadPoolExample.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/EventWindowSort.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/Task.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/SortedEventWindow.java" />
-        <option value="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/ConcurrentSkipListMapExample.java" />
-        <option value="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/StackExample.java" />
         <option value="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java" />
         <option value="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/BlockingQueueExample.java" />
         <option value="$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/DequeExample.java" />
@@ -472,65 +1125,135 @@
         <option value="$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/SortedSetMapExample.java" />
         <option value="$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/StackQueueExample.java" />
         <option value="$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringExample.java" />
+        <option value="$PROJECT_DIR$/java-advanced-classnotfound/pom.xml" />
+        <option value="$PROJECT_DIR$/java-advanced-classnotfound/src/main/java/johnny/java/advanced/NoClassDefFoundErrorExample.java" />
+        <option value="$PROJECT_DIR$/java-advanced-shallowcopy/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/java-advanced-weakhashmap/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-blockingqueue/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-callable/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-deadlock/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-forkjoin/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-notify/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-readfiles/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronization/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-synchronizer/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-threadlocal/pom.xml" />
+        <option value="$PROJECT_DIR$/java-concurrency-threadpool/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-arraylist/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-bitset/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-comparator/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-formatting/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-generics/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-io/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-list/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-map/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-nio/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-queuestack/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-scanner/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-set/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-socket/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-staticblock/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core-typeerasure/pom.xml" />
+        <option value="$PROJECT_DIR$/java-cryptography/pom.xml" />
+        <option value="$PROJECT_DIR$/java-java8-newfeatures/pom.xml" />
+        <option value="$PROJECT_DIR$/java-java8-predicate/pom.xml" />
+        <option value="$PROJECT_DIR$/java-summary-collection/pom.xml" />
+        <option value="$PROJECT_DIR$/java-versions/pom.xml" />
+        <option value="$PROJECT_DIR$/java-redis/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="821" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-concurrency-notify" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-concurrency-readfiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-concurrency-synchronization" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-bitset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-enum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-core-set" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-core-iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
+              <item name="java-redis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-programming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-java8-newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="newfeatures" type="462c0819:PsiDirectoryNode" />
-              <item name="nashorn" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -538,14 +1261,15 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577833053670" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577904674819" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -586,13 +1310,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NashornExample">
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.summary.collection.ListExample" />
-      <module name="java-summary-collection" />
+  <component name="RunManager" selected="Application.RedisExample">
+    <configuration name="ClassNotFoundExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.advanced.ClassNotFoundExceptionExample" />
+      <module name="java-advanced-classnotfound" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.summary.collection.*" />
+          <option name="PATTERN" value="johnny.java.advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -613,6 +1337,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NoClassDefFoundErrorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.advanced.NoClassDefFoundErrorExample" />
+      <module name="java-advanced-classnotfound" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="johnny.java.advanced.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PriorityQueueExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="johnny.java.summary.collection.PriorityQueueExample" />
       <module name="java-summary-collection" />
@@ -626,25 +1363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.summary.collection.SetMapExample" />
-      <module name="java-summary-collection" />
+    <configuration name="RedisExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="johnny.java.redis.RedisExample" />
+      <module name="java-redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="johnny.java.summary.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedSetMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="johnny.java.summary.collection.SortedSetMapExample" />
-      <module name="java-summary-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="johnny.java.summary.collection.*" />
+          <option name="PATTERN" value="johnny.java.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -653,19 +1377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SetMapExample" />
-      <item itemvalue="Application.ListExample" />
       <item itemvalue="Application.PriorityQueueExample (1)" />
-      <item itemvalue="Application.SortedSetMapExample" />
       <item itemvalue="Application.NashornExample" />
+      <item itemvalue="Application.ClassNotFoundExceptionExample" />
+      <item itemvalue="Application.NoClassDefFoundErrorExample" />
+      <item itemvalue="Application.RedisExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RedisExample" />
+        <item itemvalue="Application.NoClassDefFoundErrorExample" />
+        <item itemvalue="Application.ClassNotFoundExceptionExample" />
         <item itemvalue="Application.NashornExample" />
         <item itemvalue="Application.PriorityQueueExample (1)" />
-        <item itemvalue="Application.SortedSetMapExample" />
-        <item itemvalue="Application.SetMapExample" />
-        <item itemvalue="Application.ListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -716,8 +1440,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.27825466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.2932761" />
       <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -726,7 +1451,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010526" side_tool="true" weight="0.44563663" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.43122676" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.43122676" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.39653036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -743,7 +1468,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297568" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -753,103 +1478,103 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-list/src/johnny/java/core/list/ArrayListExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-list/src/main/java/johnny/java/core/list/ArrayListExample.java</url>
           <line>166</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java</url>
+          <url>file://$PROJECT_DIR$/java-redis/src/main/java/johnny/java/redis/RedisExample.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java</url>
+          <url>file://$PROJECT_DIR$/java-redis/src/main/java/johnny/java/redis/RedisExample.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java</url>
+          <url>file://$PROJECT_DIR$/java-redis/src/main/java/johnny/java/redis/RedisExample.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-bitset/src/johnny/java/core/bitset/BitSetExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-bitset/src/main/java/johnny/java/core/bitset/BitSetExample.java</url>
           <line>42</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFileSizeBufferExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-nio/src/main/java/johnny/java/core/nio/ReadFileFileSizeBufferExample.java</url>
           <line>11</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-nio/src/main/java/johnny/java/core/nio/ReadFileFixedSizeBufferExample.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java</url>
+          <url>file://$PROJECT_DIR$/java-core-nio/src/main/java/johnny/java/core/nio/EchoServer.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoClient.java</url>
+          <url>file://$PROJECT_DIR$/java-core-nio/src/main/java/johnny/java/core/nio/EchoClient.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java</url>
+          <url>file://$PROJECT_DIR$/java-core-nio/src/main/java/johnny/java/core/nio/EchoServer.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-nio/src/johnny/java/core/nio/EchoServer.java</url>
+          <url>file://$PROJECT_DIR$/java-core-nio/src/main/java/johnny/java/core/nio/EchoServer.java</url>
           <line>74</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-staticblock/src/johnny/java/core/staticblock/InitializationBlockExample3.java</url>
+          <url>file://$PROJECT_DIR$/java-core-staticblock/src/main/java/johnny/java/core/staticblock/InitializationBlockExample3.java</url>
           <line>3</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ListExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-basic/src/main/java/johnny/java/core/basic/ListExample.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java</url>
+          <url>file://$PROJECT_DIR$/java-core-basic/src/main/java/johnny/java/core/basic/ArrayExample.java</url>
           <line>7</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-core-socket/src/johnny/java/core/socket/UDPServer.java</url>
+          <url>file://$PROJECT_DIR$/java-core-socket/src/main/java/johnny/java/core/socket/UDPServer.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java</url>
+          <url>file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/Producer.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/java-concurrency-threadlocal/src/johnny/java/concurrency/threadlocal/PrimitiveExample.java</url>
+          <url>file://$PROJECT_DIR$/java-concurrency-threadlocal/src/main/java/johnny/java/concurrency/threadlocal/PrimitiveExample.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="28" />
@@ -915,207 +1640,45 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedTask.java">
+    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/main/java/johnny/java/core/arraylist/ArrayToList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="5" selection-start-line="5" selection-end-line="25" selection-end-column="1" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/src/johnny/java/concurrency/concurrentskiplistmap/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="1" selection-start-line="2" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11505">
-          <caret line="819" column="28" selection-start-line="819" selection-start-column="28" selection-end-line="819" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/FixedThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/src/johnny/java/concurrency/threadpool/ScheduledThreadPoolExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="126" column="34" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/StackExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/AbstractQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/BlockingQueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/QueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/DequeExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-83">
-          <caret line="9" column="52" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="224" column="12" selection-start-line="224" selection-start-column="12" selection-end-line="224" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-queuestack/src/johnny/java/core/queuestack/PriorityQueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-map/src/johnny/java/core/map/HashMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2790">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/SetMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="5" selection-start-line="28" selection-start-column="4" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/SortedSetMapExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="5" selection-start-line="40" selection-start-column="4" selection-end-line="94" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24810">
-          <caret line="1854" selection-start-line="1854" selection-end-line="1854" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-iterator/java-core-iterator.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="16" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/ListExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/StackQueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="45" selection-start-line="45" selection-end-line="54" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-summary-collection/src/johnny/java/summary/collection/PriorityQueueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="69" column="5" selection-start-line="52" selection-start-column="4" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/calljava.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/sample.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/src/johnny/java8/newfeatures/nashorn/NashornExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/ArrayExample.java">
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/SortedIteratorExample.java">
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/NotifyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/main/java/johnny/java/concurrency/notify/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-basic/src/main/java/johnny/java/core/basic/CharacterExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1130,144 +1693,313 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-iterator/src/johnny/java/core/iterator/CommonIteratorExample.java">
+    <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/main/java/johnny/java/advanced/AnotherClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/main/java/johnny/java/advanced/ClassNotFoundExceptionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/main/java/johnny/java/advanced/NoClassDefFoundErrorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="4" selection-start-line="4" selection-end-line="11" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-versions/src/johnny/java/java7/BinaryLiteralExample.java">
+    <entry file="file://$PROJECT_DIR$/java-advanced-shallowcopy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-advanced-weakhashmap/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-blockingqueue/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-callable/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-concurrentskiplistmap/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-deadlock/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-forkjoin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-readfiles/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronizer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-threadlocal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-concurrency-threadpool/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-arraylist/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-basic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-bitset/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-comparator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-enum/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-formatting/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-generics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-io/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-iterator/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-list/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-map/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-nio/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-queuestack/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-scanner/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-set/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-socket/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-staticblock/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-core-typeerasure/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-cryptography/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-java8-newfeatures/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-java8-predicate/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-summary-collection/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-versions/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-redis/src/main/java/johnny/java/redis/RedisExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/AnotherClass.java">
+    <entry file="file://$PROJECT_DIR$/java-redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/ClassNotFoundExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-advanced-classnotfound/src/johnny/java/advanced/classnotfound/NoClassDefFoundErrorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-redis/src/johnny/java/redis/RedisExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-thread/test/johnny/java/concurrency/thread/test/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-synchronization/src/johnny/java/concurrency/synchronization/Sender1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-arraylist/src/johnny/java/core/arraylist/ArrayToList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/NotifyExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-concurrency-notify/src/johnny/java/concurrency/notify/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/CharacterExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringBuilderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-basic/src/johnny/java/core/basic/StringExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-core-formatting/src/johnny/java/core/formatting/FormattingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-versions/src/johnny/java/java8/DefaultStaticInterfaceExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -1321,7 +2053,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java-java8-predicate</last-edited>
+          <last-edited>java-advanced-classnotfound</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
