@@ -14,16 +14,16 @@ public class StringExample {
         // concatenate strings
         String s10 = "hello";
         String s11 = "123";
-        String s12 = s10 + s11; // s12 = "hello123";
+        String s12 = s10 + s11;                                // s12 = "hello123";
 
         // String comparison
-        String str1 = "java";                                  // stored in String Pool
-        String str2 = "java";                                  // stored in String Pool
-        String str3 = new String("java");              // created locally, it is not in String Pool
-        String str4 = new String(new char[]{'j','a','v','a'}); // s3 = "java"
+        String str1 = "java";                                  // str1 is stored in String Pool
+        String str2 = "java";                                  // str2 is stored in String Pool
+        String str3 = new String("java");              // str3 is created locally, it is not in String Pool
+        String str4 = new String(new char[]{'j','a','v','a'}); // str4 = "java"
         System.out.println(str1 == str2);                      // true, both are from String Pool, same object
         System.out.println(str1.equals(str2));                 // true
-        System.out.println(str1 == str3);                      // false, str4 is created with new keyword
+        System.out.println(str1 == str3);                      // false, str3 is created with new keyword
         System.out.println(str1.equals(str3));                 // true
         System.out.println(str1 == str4);                      // false, str4 is created with new keyword
         System.out.println(str1.equals(str4));                 // true
