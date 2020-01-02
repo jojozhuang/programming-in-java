@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>johnny.java</groupId>
-    <artifactId>java-programming</artifactId>
+    <artifactId>programming-in-java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>java-advanced-classnotfound</module>

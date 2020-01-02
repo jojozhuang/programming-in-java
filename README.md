@@ -3,7 +3,7 @@ Basic Java programming knowledge, multi-threading, advanced topics, etc.
 
 # Setup Locally
 ```bash
-git clone https://github.com/jojozhuang/java-programming.git
+git clone https://github.com/jojozhuang/programming-in-java.git
 mvn install
 mvn test
 ```
